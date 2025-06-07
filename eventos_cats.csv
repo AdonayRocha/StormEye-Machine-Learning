@@ -1,0 +1,1001 @@
+id_catastrofe;nome_catastrofe;descricao;nivel_gravidade;localizacao;temperatura_media;altitude;tipo_de_regiao;velocidade_do_vento;data;umidade
+20;tempestade severa;raios e granizo intenso;2;chicago;8,3;1552;urbana;54,6;2015-07-02;100
+443;inundacao;rios transbordam e invadem cidade;1;mumbai;18;1499;rural;31,2;2020-05-11;100
+42;tempestade severa;chuvas e ventos fortes;4;mumbai;14,4;2276;rural;61;2021-05-15;99,9
+355;tempestade severa;raios e granizo intenso;1;madrid;17,6;157;urbana;89;2020-09-28;99,9
+936;tempestade severa;raios e granizo intenso;3;toronto;6,7;1323;urbana;84,5;2019-11-03;99,9
+985;tempestade severa;chuvas e ventos fortes;2;paris;13,1;348;urbana;57,4;2016-10-05;99,9
+159;inundacao;alagamento apos chuvas fortes;2;buenos aires;16,8;2229;urbana;36,2;2019-03-07;99,7
+532;tempestade severa;chuvas e ventos fortes;5;cairo;14,4;728;urbana;81,6;2019-11-20;99,7
+176;tempestade severa;chuvas e ventos fortes;5;santiago;6,5;2087;urbana;85,8;2025-03-21;99,6
+680;inundacao;alagamento apos chuvas fortes;3;beijing;6,5;946;urbana;64,4;2017-05-31;99,6
+682;tempestade severa;chuvas e ventos fortes;2;beijing;5,3;384;rural;83,5;2019-01-27;99,6
+247;tempestade severa;raios e granizo intenso;5;beijing;17;2528;rural;70,8;2015-01-21;99,5
+669;inundacao;rios transbordam e invadem cidade;2;new york;12,1;2848;rural;53,8;2021-07-11;99,5
+78;inundacao;alagamento apos chuvas fortes;1;melbourne;6,2;586;urbana;76,6;2019-03-19;99,4
+878;inundacao;alagamento apos chuvas fortes;3;cairo;12,6;1022;urbana;42;2015-08-01;99,4
+625;tempestade severa;raios e granizo intenso;4;perth;16;735;urbana;64,7;2017-12-22;99,3
+72;inundacao;rios transbordam e invadem cidade;1;cairo;6,6;1064;urbana;68,2;2024-01-20;99,2
+119;inundacao;alagamento apos chuvas fortes;3;nairobi;14,2;1208;rural;27,4;2024-12-30;99,2
+183;tempestade severa;raios e granizo intenso;3;cape town;14,5;2519;rural;94,1;2016-12-06;99,2
+381;tempestade severa;chuvas e ventos fortes;4;paris;6,3;1601;rural;89,1;2015-09-17;99,2
+799;inundacao;rios transbordam e invadem cidade;4;toronto;13,5;137;urbana;19,3;2024-10-03;99,2
+45;inundacao;rios transbordam e invadem cidade;1;los angeles;16,2;2444;urbana;74,1;2018-07-16;99,1
+278;tempestade severa;raios e granizo intenso;3;melbourne;8,4;87;rural;76,7;2018-10-12;99,1
+242;inundacao;alagamento apos chuvas fortes;4;santiago;14,5;208;rural;31;2018-04-15;99
+317;inundacao;alagamento apos chuvas fortes;2;berlin;11,3;1383;urbana;43,2;2019-02-20;99
+551;tempestade severa;chuvas e ventos fortes;2;nairobi;8,4;62;urbana;78,1;2022-04-01;98,9
+105;inundacao;rios transbordam e invadem cidade;4;bogota;10,5;2575;rural;52,3;2023-02-21;98,6
+166;tempestade severa;chuvas e ventos fortes;2;sao paulo;9,4;1798;urbana;59,3;2015-08-17;98,6
+328;inundacao;rios transbordam e invadem cidade;2;mumbai;5,2;394;rural;35,3;2017-01-03;98,6
+458;inundacao;alagamento apos chuvas fortes;4;london;12,8;1960;rural;73,3;2016-08-09;98,6
+776;tempestade severa;raios e granizo intenso;2;melbourne;12;2797;urbana;65,5;2017-05-09;98,6
+508;tempestade severa;chuvas e ventos fortes;5;new york;18,7;1136;urbana;89,5;2017-11-23;98,5
+61;tempestade severa;chuvas e ventos fortes;3;cairo;6;702;urbana;68,7;2023-03-23;98,3
+193;tempestade severa;chuvas e ventos fortes;2;new york;6,2;2675;rural;76,9;2024-11-30;98,3
+57;tempestade severa;chuvas e ventos fortes;2;bangkok;9,6;949;urbana;93,5;2021-09-18;98,2
+207;tempestade severa;chuvas e ventos fortes;3;perth;11,7;815;urbana;90,4;2015-04-18;98,2
+276;tempestade severa;chuvas e ventos fortes;3;lima;6,6;1165;rural;86,5;2019-12-12;98,2
+535;inundacao;alagamento apos chuvas fortes;5;nairobi;7,6;8;rural;57,2;2015-05-20;98,2
+592;inundacao;rios transbordam e invadem cidade;4;santiago;13,4;1728;rural;38;2021-09-18;98,2
+510;inundacao;alagamento apos chuvas fortes;5;los angeles;10,1;1217;rural;37,1;2023-10-24;98,1
+953;tempestade severa;raios e granizo intenso;2;sao paulo;9,6;1506;urbana;64,4;2016-07-03;98,1
+994;tempestade severa;raios e granizo intenso;4;sydney;6,6;556;rural;65;2016-07-20;98
+126;tempestade severa;raios e granizo intenso;4;tokyo;5;1579;rural;99,7;2015-11-26;97,9
+725;tempestade severa;chuvas e ventos fortes;5;berlin;7;123;urbana;74,6;2024-01-05;97,9
+765;tempestade severa;raios e granizo intenso;3;lagos;18,6;2780;rural;53,8;2020-06-05;97,9
+23;inundacao;rios transbordam e invadem cidade;5;toronto;10,9;105;urbana;73,1;2024-05-12;97,8
+323;inundacao;alagamento apos chuvas fortes;3;lagos;13,8;319;urbana;45,9;2017-07-05;97,8
+917;inundacao;rios transbordam e invadem cidade;1;los angeles;14;423;urbana;29,8;2018-07-01;97,7
+963;inundacao;rios transbordam e invadem cidade;4;santiago;9,5;1462;urbana;57,9;2021-12-07;97,7
+978;inundacao;alagamento apos chuvas fortes;1;santiago;15,2;1754;rural;55,1;2015-05-28;97,7
+969;inundacao;rios transbordam e invadem cidade;5;chicago;5,6;2716;urbana;44,1;2024-04-04;97,5
+303;inundacao;alagamento apos chuvas fortes;5;casablanca;6;58;urbana;62,9;2017-05-17;97,4
+311;inundacao;rios transbordam e invadem cidade;2;casablanca;13,3;2269;urbana;12,2;2022-06-03;97,4
+840;inundacao;alagamento apos chuvas fortes;3;perth;19,6;1723;rural;77,8;2021-07-20;97,4
+315;tempestade severa;raios e granizo intenso;3;lagos;11,3;1687;urbana;97,9;2021-11-11;97,1
+345;inundacao;rios transbordam e invadem cidade;3;beijing;8,6;1779;rural;16,9;2021-06-14;97,1
+797;tempestade severa;raios e granizo intenso;4;brisbane;7,4;2722;urbana;69,6;2023-05-07;97,1
+906;inundacao;alagamento apos chuvas fortes;3;cape town;11,4;1429;urbana;15,9;2019-11-24;97,1
+238;inundacao;alagamento apos chuvas fortes;4;chicago;11,8;696;rural;54,4;2016-07-16;97
+987;inundacao;alagamento apos chuvas fortes;5;chicago;10,4;493;rural;78,1;2024-03-08;97
+854;inundacao;rios transbordam e invadem cidade;3;buenos aires;11,2;1628;rural;36,7;2019-11-01;96,9
+339;inundacao;alagamento apos chuvas fortes;1;cairo;14,1;1322;urbana;57,9;2016-05-17;96,8
+462;inundacao;alagamento apos chuvas fortes;2;cape town;6,1;2677;rural;25,2;2020-09-03;96,8
+515;inundacao;rios transbordam e invadem cidade;2;bangkok;6;2486;rural;51,5;2020-08-26;96,8
+577;inundacao;rios transbordam e invadem cidade;5;toronto;17,6;1703;urbana;71,1;2025-03-30;96,7
+888;inundacao;rios transbordam e invadem cidade;3;new york;8,2;1284;urbana;78,7;2024-04-08;96,7
+593;inundacao;rios transbordam e invadem cidade;3;new york;18,4;1398;rural;66,4;2019-08-10;96,6
+556;tempestade severa;chuvas e ventos fortes;2;beijing;14,2;658;rural;67,8;2022-06-27;96,5
+781;inundacao;alagamento apos chuvas fortes;3;bogota;9,2;213;urbana;50,1;2017-03-18;96,5
+796;tempestade severa;chuvas e ventos fortes;2;mexico city;10,7;1292;urbana;80,8;2017-06-22;96,5
+196;tempestade severa;chuvas e ventos fortes;3;new york;6,6;1081;rural;50,9;2022-01-13;96,4
+296;inundacao;alagamento apos chuvas fortes;2;bangkok;9,9;834;urbana;10,3;2024-06-22;96,4
+971;inundacao;alagamento apos chuvas fortes;3;brisbane;7,3;1358;urbana;37,8;2017-03-07;96,4
+439;inundacao;alagamento apos chuvas fortes;4;nairobi;6,9;273;urbana;47,4;2018-06-09;96,3
+638;tempestade severa;chuvas e ventos fortes;2;new york;10;1761;rural;50,5;2021-08-12;96,3
+677;tempestade severa;raios e granizo intenso;4;perth;18;996;urbana;50,9;2023-10-24;96,3
+68;tempestade severa;chuvas e ventos fortes;3;cape town;11,7;1167;rural;62,3;2018-08-21;96,2
+86;inundacao;rios transbordam e invadem cidade;5;auckland;14,4;1897;rural;50,6;2018-08-17;96,2
+227;inundacao;alagamento apos chuvas fortes;5;paris;13,6;2568;urbana;64,5;2015-01-07;96,2
+492;tempestade severa;raios e granizo intenso;4;tokyo;10,9;1661;rural;75,4;2022-09-29;96,2
+394;inundacao;alagamento apos chuvas fortes;4;los angeles;10,1;1976;urbana;10,5;2024-07-23;96,1
+934;tempestade severa;raios e granizo intenso;5;lima;16,4;363;rural;57,1;2024-07-10;96,1
+127;inundacao;rios transbordam e invadem cidade;1;cape town;11,4;879;urbana;60,3;2020-01-22;96
+996;tempestade severa;chuvas e ventos fortes;2;paris;18,7;929;rural;55,8;2017-08-16;96
+87;tempestade severa;raios e granizo intenso;4;melbourne;13,5;142;rural;68,1;2017-12-01;95,8
+111;inundacao;alagamento apos chuvas fortes;5;buenos aires;17;2882;rural;71,9;2018-11-03;95,8
+907;tempestade severa;raios e granizo intenso;1;seoul;13,9;581;urbana;90,4;2020-01-29;95,7
+481;tempestade severa;raios e granizo intenso;2;chicago;11;751;rural;52,4;2021-09-27;95,6
+544;inundacao;rios transbordam e invadem cidade;1;perth;7,7;1600;urbana;17;2024-11-18;95,6
+788;inundacao;rios transbordam e invadem cidade;2;tokyo;6,3;1389;rural;14,5;2023-12-20;95,6
+182;inundacao;rios transbordam e invadem cidade;3;new york;6,4;2734;urbana;60,5;2025-03-07;95,5
+538;inundacao;alagamento apos chuvas fortes;3;auckland;10,3;2380;urbana;32,9;2023-06-20;95,5
+777;inundacao;rios transbordam e invadem cidade;3;madrid;15;2580;urbana;73,9;2023-07-25;95,3
+841;inundacao;alagamento apos chuvas fortes;2;santiago;15;1451;rural;72;2015-01-29;95,3
+175;tempestade severa;raios e granizo intenso;5;rome;6,5;1732;rural;94,5;2020-02-12;95,2
+851;tempestade severa;chuvas e ventos fortes;4;casablanca;5,4;2651;urbana;59;2024-10-12;95,2
+292;inundacao;alagamento apos chuvas fortes;1;auckland;16,4;915;rural;69;2024-09-15;95,1
+347;inundacao;alagamento apos chuvas fortes;5;lagos;6,8;1574;rural;36,1;2023-09-04;94,8
+542;tempestade severa;raios e granizo intenso;3;paris;12,6;1598;rural;72,8;2019-11-18;94,7
+7;tempestade severa;raios e granizo intenso;1;bogota;8,7;2609;rural;83,5;2024-09-09;94,5
+265;tempestade severa;chuvas e ventos fortes;1;bangkok;8,8;258;rural;55,8;2023-01-10;94,5
+846;tempestade severa;raios e granizo intenso;5;sao paulo;14,1;1788;urbana;83,3;2015-02-22;94,5
+304;tempestade severa;chuvas e ventos fortes;4;cape town;5,7;2541;urbana;85,7;2020-02-13;94,4
+213;tempestade severa;chuvas e ventos fortes;5;lagos;8,8;2353;urbana;91,1;2022-06-06;94,2
+957;tempestade severa;raios e granizo intenso;3;bogota;15,4;810;rural;89,7;2019-05-17;94,2
+337;inundacao;rios transbordam e invadem cidade;4;casablanca;5,5;195;urbana;41,9;2019-09-17;94,1
+424;tempestade severa;chuvas e ventos fortes;1;nairobi;7,9;2458;urbana;89,7;2017-03-07;94
+802;inundacao;rios transbordam e invadem cidade;3;tokyo;17,2;2357;urbana;62,1;2019-06-11;93,9
+885;inundacao;rios transbordam e invadem cidade;1;casablanca;12,6;1440;urbana;37,2;2017-06-07;93,9
+333;inundacao;rios transbordam e invadem cidade;2;cairo;9,3;566;urbana;45,3;2025-01-16;93,8
+648;inundacao;alagamento apos chuvas fortes;3;cape town;11,9;929;urbana;36,7;2025-05-15;93,8
+224;tempestade severa;raios e granizo intenso;4;santiago;17,9;1905;urbana;69,9;2023-11-27;93,6
+806;inundacao;rios transbordam e invadem cidade;4;auckland;12;347;urbana;23,3;2024-03-25;93,6
+486;tempestade severa;chuvas e ventos fortes;5;lima;17,7;1425;urbana;98,5;2024-03-19;93,5
+468;inundacao;alagamento apos chuvas fortes;2;los angeles;10,3;439;rural;75,9;2015-01-22;93,4
+874;inundacao;rios transbordam e invadem cidade;3;nairobi;12,6;540;urbana;17,3;2020-09-12;93,4
+29;inundacao;alagamento apos chuvas fortes;3;casablanca;10,6;1779;rural;47,1;2015-11-07;93,3
+249;inundacao;rios transbordam e invadem cidade;5;chicago;10,6;434;urbana;21,3;2022-03-28;93,3
+313;inundacao;rios transbordam e invadem cidade;1;toronto;6,6;1253;urbana;41,1;2023-09-21;93,2
+283;inundacao;alagamento apos chuvas fortes;3;bangkok;12,6;2977;rural;11,7;2021-06-22;93,1
+893;tempestade severa;raios e granizo intenso;2;los angeles;10;1693;urbana;96,3;2020-05-28;93,1
+297;inundacao;alagamento apos chuvas fortes;4;rome;18,7;2323;rural;37,6;2015-08-28;93
+879;tempestade severa;raios e granizo intenso;4;paris;15,2;2514;rural;75,5;2025-04-25;92,9
+731;inundacao;alagamento apos chuvas fortes;5;chicago;7,7;642;urbana;42,7;2021-07-02;92,8
+434;inundacao;rios transbordam e invadem cidade;1;santiago;9,8;1073;rural;14,5;2021-08-27;92,7
+892;inundacao;rios transbordam e invadem cidade;2;rome;14,9;2424;urbana;66,3;2022-01-22;92,7
+909;inundacao;rios transbordam e invadem cidade;2;new york;6,1;1824;rural;11,5;2023-07-06;92,7
+80;tempestade severa;raios e granizo intenso;5;perth;9,4;1630;urbana;63,7;2018-09-19;92,6
+518;inundacao;alagamento apos chuvas fortes;3;chicago;14,4;1816;rural;53,5;2015-10-05;92,6
+911;tempestade severa;chuvas e ventos fortes;2;beijing;13,1;2796;rural;55,6;2024-05-02;92,6
+843;inundacao;alagamento apos chuvas fortes;4;toronto;7,9;2189;rural;41,7;2018-09-08;92,5
+815;inundacao;alagamento apos chuvas fortes;3;brisbane;17,7;1449;rural;79,6;2019-07-28;92,4
+980;inundacao;rios transbordam e invadem cidade;5;sydney;13,9;2113;rural;72,2;2020-02-15;92,3
+368;tempestade severa;chuvas e ventos fortes;4;bogota;13,1;267;urbana;63,2;2022-02-04;92,2
+632;inundacao;alagamento apos chuvas fortes;4;berlin;5;2859;rural;19,7;2025-03-12;92,2
+406;inundacao;alagamento apos chuvas fortes;4;beijing;8,7;1858;urbana;19,5;2019-05-23;92,1
+894;tempestade severa;raios e granizo intenso;1;beijing;10,7;1250;rural;67,2;2023-05-09;92,1
+948;tempestade severa;raios e granizo intenso;1;lima;17,8;94;rural;82,3;2020-09-07;92
+857;tempestade severa;chuvas e ventos fortes;2;rome;13,7;2755;rural;64,8;2017-11-22;91,8
+205;inundacao;rios transbordam e invadem cidade;5;london;14,7;691;urbana;72,3;2024-09-09;91,7
+274;inundacao;rios transbordam e invadem cidade;1;brisbane;19,8;448;urbana;66,7;2017-03-31;91,7
+666;tempestade severa;raios e granizo intenso;3;bogota;14,3;2699;rural;97,8;2022-05-22;91,7
+191;tempestade severa;raios e granizo intenso;4;cape town;14,7;2215;urbana;58,4;2021-12-10;91,6
+476;tempestade severa;chuvas e ventos fortes;4;london;12,6;1583;rural;67,7;2022-01-14;91,6
+601;tempestade severa;chuvas e ventos fortes;2;seoul;5,9;1862;rural;73,4;2015-11-30;91,6
+756;inundacao;rios transbordam e invadem cidade;1;sao paulo;19,9;1515;rural;60,6;2018-08-05;91,6
+33;inundacao;alagamento apos chuvas fortes;3;madrid;13,3;439;urbana;75,3;2021-10-29;91,5
+228;inundacao;alagamento apos chuvas fortes;3;rome;19,5;459;urbana;51,2;2021-11-26;91,5
+396;tempestade severa;raios e granizo intenso;1;madrid;19,3;357;rural;73,4;2023-11-27;91,3
+376;tempestade severa;raios e granizo intenso;4;sao paulo;19,2;1315;urbana;72,6;2016-03-25;91,1
+28;tempestade severa;chuvas e ventos fortes;1;rome;19,6;579;urbana;55,3;2019-07-16;91
+231;tempestade severa;chuvas e ventos fortes;4;perth;14;856;urbana;89,7;2020-11-17;91
+596;inundacao;rios transbordam e invadem cidade;3;tokyo;7,4;2831;rural;32,5;2020-04-09;91
+44;tempestade severa;chuvas e ventos fortes;4;berlin;5,8;301;urbana;53,2;2021-10-29;90,9
+110;inundacao;rios transbordam e invadem cidade;1;perth;6,6;2868;urbana;22,8;2020-10-31;90,9
+646;tempestade severa;raios e granizo intenso;3;madrid;11,1;1865;urbana;99,3;2018-05-17;90,9
+67;inundacao;rios transbordam e invadem cidade;1;berlin;8,9;587;urbana;62,9;2025-01-02;90,8
+709;inundacao;alagamento apos chuvas fortes;1;sao paulo;19,6;2670;urbana;10,1;2016-03-15;90,8
+991;tempestade severa;raios e granizo intenso;3;seoul;5,7;623;rural;56,6;2016-10-24;90,8
+32;tempestade severa;chuvas e ventos fortes;5;perth;8,1;2139;urbana;54,7;2015-12-18;90,6
+162;tempestade severa;chuvas e ventos fortes;1;mexico city;18,3;2262;rural;50,8;2015-12-18;90,5
+358;inundacao;alagamento apos chuvas fortes;3;beijing;13,4;2412;urbana;11,9;2017-05-11;90,5
+58;tempestade severa;chuvas e ventos fortes;3;bogota;19,7;493;urbana;70,7;2017-05-22;90,4
+427;inundacao;rios transbordam e invadem cidade;5;tokyo;12,8;493;urbana;30,7;2019-04-06;90,4
+306;tempestade severa;chuvas e ventos fortes;4;los angeles;10,2;1463;urbana;86,2;2016-06-25;90,3
+882;inundacao;alagamento apos chuvas fortes;1;rome;15;1180;rural;69,7;2023-06-17;90,2
+867;inundacao;alagamento apos chuvas fortes;3;mexico city;11,2;2947;rural;11,1;2021-08-06;90
+653;inundacao;alagamento apos chuvas fortes;3;santiago;11,3;1481;rural;53,9;2024-07-22;89,9
+938;tempestade severa;raios e granizo intenso;3;toronto;9,5;1340;rural;94,6;2020-04-22;89,8
+325;tempestade severa;raios e granizo intenso;5;new york;19,6;2548;rural;92,5;2022-11-16;89,5
+35;tempestade severa;raios e granizo intenso;5;berlin;7,3;349;urbana;72,2;2022-08-16;89,4
+234;tempestade severa;chuvas e ventos fortes;3;brisbane;11,3;1808;rural;90,3;2021-09-24;89,4
+302;tempestade severa;chuvas e ventos fortes;2;sydney;12,6;1752;rural;70,1;2016-08-01;89,4
+540;inundacao;alagamento apos chuvas fortes;5;bogota;15,6;981;urbana;30,8;2025-04-03;89,2
+56;inundacao;alagamento apos chuvas fortes;2;los angeles;14,7;2955;urbana;55,4;2022-01-03;89,1
+225;tempestade severa;raios e granizo intenso;4;toronto;8,6;2605;rural;94,4;2016-04-17;89,1
+611;tempestade severa;chuvas e ventos fortes;3;toronto;17,6;1514;urbana;83;2016-04-18;89,1
+629;tempestade severa;raios e granizo intenso;5;cairo;18,7;79;rural;85,5;2018-06-26;89,1
+564;inundacao;rios transbordam e invadem cidade;3;paris;5,5;470;urbana;45;2022-11-05;88,9
+39;tempestade severa;raios e granizo intenso;1;chicago;19,9;2910;urbana;53,7;2024-10-31;88,8
+94;tempestade severa;raios e granizo intenso;5;rome;11,1;2820;rural;80,8;2021-09-07;88,8
+263;inundacao;rios transbordam e invadem cidade;4;bogota;9,6;2570;urbana;30,4;2017-07-14;88,8
+84;inundacao;alagamento apos chuvas fortes;2;tokyo;17,7;1632;urbana;23,5;2016-01-14;88,5
+585;tempestade severa;raios e granizo intenso;3;nairobi;11;1071;urbana;59,6;2022-04-28;88,5
+944;inundacao;rios transbordam e invadem cidade;3;tokyo;8,5;1298;rural;50,2;2024-10-09;88,5
+157;inundacao;alagamento apos chuvas fortes;2;sydney;13,6;1510;urbana;18;2023-01-06;88,4
+83;inundacao;alagamento apos chuvas fortes;4;brisbane;14,7;1551;rural;44,1;2020-02-02;88,3
+918;tempestade severa;raios e granizo intenso;2;berlin;11;1130;urbana;66,5;2023-04-12;88,3
+411;tempestade severa;chuvas e ventos fortes;5;brisbane;14,5;1781;urbana;57,9;2016-11-19;88,1
+282;tempestade severa;raios e granizo intenso;2;melbourne;13,1;2119;rural;88;2015-11-01;87,8
+320;inundacao;alagamento apos chuvas fortes;4;los angeles;8,5;1907;rural;35,4;2019-02-14;87,8
+778;inundacao;alagamento apos chuvas fortes;1;lima;12,9;2704;urbana;33,5;2019-02-24;87,8
+856;tempestade severa;raios e granizo intenso;5;lima;16,1;2228;rural;64;2024-08-02;87,8
+933;inundacao;rios transbordam e invadem cidade;2;toronto;11,5;239;rural;62,6;2019-10-29;87,8
+935;inundacao;rios transbordam e invadem cidade;2;buenos aires;9,5;1921;urbana;58,2;2024-03-27;87,7
+30;tempestade severa;chuvas e ventos fortes;4;berlin;8,7;1507;urbana;88,8;2023-04-16;87,6
+671;tempestade severa;chuvas e ventos fortes;5;chicago;8,3;898;rural;71,9;2023-04-08;87,6
+369;tempestade severa;chuvas e ventos fortes;5;sydney;7,4;2287;rural;95,1;2015-06-02;87,5
+598;tempestade severa;raios e granizo intenso;2;casablanca;18,7;1372;urbana;83,9;2019-03-10;87,5
+488;inundacao;rios transbordam e invadem cidade;1;toronto;6,8;1167;urbana;58,1;2019-10-19;87,4
+299;tempestade severa;raios e granizo intenso;5;sydney;11,6;759;urbana;79,6;2024-10-11;87,3
+903;tempestade severa;chuvas e ventos fortes;1;buenos aires;6;1903;rural;93,8;2023-11-16;87,2
+946;tempestade severa;raios e granizo intenso;1;los angeles;7,1;2269;urbana;69,9;2017-09-19;87,2
+388;tempestade severa;chuvas e ventos fortes;4;casablanca;18,3;1973;rural;59,7;2018-05-21;87,1
+140;inundacao;rios transbordam e invadem cidade;5;lagos;18,6;2879;urbana;71,9;2021-11-21;86,9
+499;tempestade severa;chuvas e ventos fortes;2;auckland;5,2;737;urbana;91,8;2019-06-21;86,9
+763;inundacao;rios transbordam e invadem cidade;1;bogota;11,1;2372;rural;27;2015-08-28;86,9
+803;tempestade severa;chuvas e ventos fortes;3;sao paulo;18,5;2984;urbana;55,6;2019-01-06;86,9
+812;inundacao;rios transbordam e invadem cidade;5;melbourne;12,2;2764;rural;24,6;2023-04-05;86,9
+206;inundacao;rios transbordam e invadem cidade;1;sydney;8,5;2296;urbana;23,1;2021-08-19;86,7
+480;tempestade severa;chuvas e ventos fortes;1;beijing;16,3;1469;urbana;58,2;2023-03-08;86,7
+863;tempestade severa;chuvas e ventos fortes;4;los angeles;8,3;1116;rural;82,5;2017-01-11;86,6
+977;tempestade severa;raios e granizo intenso;3;santiago;19,7;1860;urbana;83,9;2018-04-09;86,5
+433;inundacao;rios transbordam e invadem cidade;2;casablanca;16,9;2989;rural;58,9;2016-10-24;86,4
+871;tempestade severa;raios e granizo intenso;3;london;12,9;1286;urbana;76,9;2020-10-01;86,3
+286;tempestade severa;raios e granizo intenso;3;lagos;16;2601;rural;79,4;2018-02-04;86,2
+832;tempestade severa;raios e granizo intenso;4;brisbane;8,8;1512;rural;96,5;2018-11-05;86,2
+472;tempestade severa;raios e granizo intenso;4;paris;6;2328;rural;51,5;2015-02-22;86,1
+73;tempestade severa;chuvas e ventos fortes;4;bogota;8,9;2511;urbana;74;2016-04-25;86
+563;inundacao;rios transbordam e invadem cidade;3;cairo;7,9;1798;urbana;64;2018-05-12;86
+400;inundacao;alagamento apos chuvas fortes;3;beijing;5,9;841;rural;21,8;2017-05-26;85,9
+555;inundacao;rios transbordam e invadem cidade;2;mumbai;19,2;2318;rural;32,8;2021-08-01;85,9
+367;inundacao;alagamento apos chuvas fortes;5;los angeles;6,5;2190;rural;77;2023-11-29;85,8
+642;inundacao;rios transbordam e invadem cidade;4;paris;17,3;1792;urbana;65,8;2022-01-06;85,8
+753;inundacao;rios transbordam e invadem cidade;2;madrid;19;254;urbana;38;2016-02-11;85,8
+890;inundacao;alagamento apos chuvas fortes;5;mexico city;10,5;1670;urbana;36;2019-12-16;85,8
+950;tempestade severa;raios e granizo intenso;5;seoul;10,5;352;urbana;71,2;2020-04-15;85,7
+464;tempestade severa;chuvas e ventos fortes;5;sydney;17,1;2355;urbana;65,9;2015-11-16;85,5
+619;tempestade severa;raios e granizo intenso;5;bogota;7,4;1544;rural;97,9;2015-10-11;85,5
+588;inundacao;rios transbordam e invadem cidade;5;bogota;14,7;1471;rural;19,6;2024-02-11;85,4
+698;inundacao;rios transbordam e invadem cidade;1;buenos aires;8,5;322;rural;55;2018-12-23;85,4
+19;tempestade severa;chuvas e ventos fortes;5;madrid;19;2240;rural;92,4;2017-08-22;85,3
+498;inundacao;rios transbordam e invadem cidade;5;cairo;7,6;2584;rural;66;2016-07-16;85,3
+594;tempestade severa;chuvas e ventos fortes;4;perth;6,6;1852;rural;67,1;2015-11-18;85,3
+121;tempestade severa;raios e granizo intenso;5;bogota;10,7;2127;rural;64,2;2022-05-23;85,2
+25;inundacao;alagamento apos chuvas fortes;5;cairo;15,2;2980;rural;37;2022-05-21;85,1
+338;inundacao;rios transbordam e invadem cidade;3;mexico city;12,6;959;urbana;33,2;2020-02-01;85,1
+897;tempestade severa;raios e granizo intenso;1;santiago;13,9;2815;urbana;55,8;2016-04-17;85,1
+22;inundacao;alagamento apos chuvas fortes;5;perth;5,4;1936;rural;56,7;2022-04-27;85
+331;inundacao;alagamento apos chuvas fortes;1;bogota;16,8;1716;rural;40,2;2019-12-05;85
+760;tempestade severa;chuvas e ventos fortes;1;brisbane;13,8;2198;urbana;76,1;2023-09-29;85
+762;inundacao;rios transbordam e invadem cidade;5;tokyo;10,5;926;rural;70;2018-06-14;85
+357;inundacao;alagamento apos chuvas fortes;1;mexico city;5,6;1283;rural;62;2021-11-14;84,9
+413;tempestade severa;chuvas e ventos fortes;4;lima;15,5;1014;urbana;57,9;2019-07-14;84,9
+554;inundacao;alagamento apos chuvas fortes;1;melbourne;13,4;627;urbana;50,1;2019-01-06;84,9
+693;inundacao;rios transbordam e invadem cidade;1;lagos;14,9;2052;urbana;31,4;2020-02-01;84,9
+332;inundacao;rios transbordam e invadem cidade;4;london;16,5;2288;rural;58,9;2020-11-03;84,8
+609;inundacao;alagamento apos chuvas fortes;4;bogota;16,9;1341;rural;29,4;2025-05-03;84,8
+491;tempestade severa;raios e granizo intenso;4;paris;19,5;2937;urbana;81,5;2019-03-02;84,7
+865;inundacao;alagamento apos chuvas fortes;3;mumbai;5,3;2441;urbana;67,6;2015-09-01;84,7
+81;tempestade severa;raios e granizo intenso;2;lima;7,2;1892;rural;95,8;2018-05-09;84,6
+173;tempestade severa;chuvas e ventos fortes;2;chicago;11,8;1941;urbana;61,6;2023-12-27;84,5
+645;tempestade severa;raios e granizo intenso;2;tokyo;12,5;2619;rural;78;2017-09-27;84,5
+104;inundacao;alagamento apos chuvas fortes;2;brisbane;11,3;156;urbana;55,4;2015-01-25;84,4
+469;inundacao;alagamento apos chuvas fortes;1;casablanca;16,1;2111;urbana;21,3;2019-01-02;84,4
+844;tempestade severa;raios e granizo intenso;1;nairobi;5;1644;urbana;96,9;2015-08-25;84,4
+6;tempestade severa;chuvas e ventos fortes;5;berlin;15,7;2809;rural;92,3;2021-12-27;84,2
+177;inundacao;alagamento apos chuvas fortes;4;mumbai;12,9;2690;urbana;55,9;2016-07-28;84,2
+245;inundacao;alagamento apos chuvas fortes;5;auckland;10,4;2289;rural;27,7;2016-02-21;84,2
+235;tempestade severa;raios e granizo intenso;4;sydney;8,2;1966;rural;83,9;2015-01-09;84,1
+861;inundacao;rios transbordam e invadem cidade;3;perth;13,2;1413;urbana;35,1;2020-02-16;84
+375;tempestade severa;raios e granizo intenso;4;rome;5,3;2602;urbana;69,2;2021-02-03;83,9
+359;inundacao;alagamento apos chuvas fortes;5;new york;16;2374;rural;74,6;2016-05-31;83,8
+130;tempestade severa;raios e granizo intenso;2;chicago;11,8;1469;urbana;76,6;2018-09-23;83,6
+362;tempestade severa;chuvas e ventos fortes;3;bangkok;16,4;1115;urbana;70,7;2024-07-24;83,6
+769;tempestade severa;raios e granizo intenso;3;auckland;19,8;1580;rural;69,8;2017-10-30;83,6
+817;tempestade severa;raios e granizo intenso;1;paris;10,6;1275;rural;69,9;2015-12-31;83,6
+288;tempestade severa;raios e granizo intenso;2;madrid;8,3;388;rural;70,7;2022-08-16;83,5
+475;inundacao;rios transbordam e invadem cidade;1;santiago;15,7;2331;urbana;76,3;2023-02-03;83,4
+795;inundacao;alagamento apos chuvas fortes;4;brisbane;17,9;2926;urbana;38,1;2023-06-10;83,4
+167;inundacao;rios transbordam e invadem cidade;2;mumbai;9,2;332;rural;28,2;2019-10-20;83,3
+60;inundacao;rios transbordam e invadem cidade;5;mumbai;15,3;737;urbana;31,5;2021-09-11;83,2
+113;inundacao;rios transbordam e invadem cidade;2;lima;14,6;996;rural;76,8;2020-03-19;83,2
+252;inundacao;rios transbordam e invadem cidade;4;new york;13,1;1758;rural;11;2015-08-23;83,2
+613;tempestade severa;raios e granizo intenso;3;seoul;17,3;798;urbana;79,8;2021-11-30;83,2
+172;inundacao;rios transbordam e invadem cidade;3;perth;10,5;1288;urbana;17,3;2017-03-23;83,1
+222;inundacao;rios transbordam e invadem cidade;2;bogota;11,7;1100;rural;50,2;2017-03-06;83,1
+241;tempestade severa;raios e granizo intenso;2;brisbane;13,4;239;urbana;82,1;2015-02-23;83,1
+160;inundacao;alagamento apos chuvas fortes;5;sydney;10,8;2190;urbana;36,3;2022-05-24;83
+215;tempestade severa;chuvas e ventos fortes;5;mumbai;6,6;184;rural;85,2;2016-05-19;83
+124;inundacao;rios transbordam e invadem cidade;3;lagos;12,1;2706;urbana;28;2023-04-26;82,9
+18;inundacao;rios transbordam e invadem cidade;4;mexico city;11,7;1261;rural;40,6;2025-02-08;82,8
+791;inundacao;alagamento apos chuvas fortes;5;lagos;13,4;1408;urbana;53,8;2021-02-11;82,7
+836;tempestade severa;raios e granizo intenso;5;mumbai;10,4;182;rural;70,1;2017-05-15;82,7
+662;inundacao;rios transbordam e invadem cidade;5;auckland;12,9;423;urbana;49;2024-09-04;82,6
+273;inundacao;alagamento apos chuvas fortes;2;beijing;18,9;1316;rural;67,9;2019-09-25;82,5
+405;tempestade severa;chuvas e ventos fortes;3;auckland;9,4;577;urbana;70,2;2019-02-20;82,5
+448;inundacao;rios transbordam e invadem cidade;4;lagos;9,4;1377;rural;33,6;2017-11-27;82,4
+668;tempestade severa;raios e granizo intenso;4;nairobi;20;2151;urbana;95,1;2022-03-17;82,4
+336;inundacao;alagamento apos chuvas fortes;5;nairobi;10,7;1973;urbana;64,5;2024-04-05;82,3
+471;tempestade severa;chuvas e ventos fortes;1;seoul;7,4;2752;urbana;66,9;2025-05-23;82,3
+678;tempestade severa;chuvas e ventos fortes;3;casablanca;14,3;947;rural;69,2;2020-07-17;82,3
+901;tempestade severa;chuvas e ventos fortes;3;santiago;18,8;1351;rural;84,7;2025-02-04;82,3
+650;tempestade severa;chuvas e ventos fortes;1;melbourne;19,8;594;urbana;92,9;2024-04-12;82,2
+912;inundacao;alagamento apos chuvas fortes;5;cape town;6;752;rural;59,7;2023-07-11;82,1
+259;tempestade severa;raios e granizo intenso;2;melbourne;18,4;2427;rural;88,1;2016-08-24;82
+343;inundacao;rios transbordam e invadem cidade;2;cape town;10;1022;urbana;44;2023-03-31;82
+800;inundacao;rios transbordam e invadem cidade;5;lagos;9,1;1781;urbana;56,3;2015-02-16;82
+55;tempestade severa;chuvas e ventos fortes;5;lima;18,4;2930;urbana;76,3;2023-06-05;81,9
+82;inundacao;rios transbordam e invadem cidade;4;tokyo;6,8;2214;rural;62,7;2018-11-10;81,9
+437;inundacao;rios transbordam e invadem cidade;2;perth;13,4;1654;urbana;11,8;2020-12-04;81,8
+635;inundacao;rios transbordam e invadem cidade;1;tokyo;13,4;2748;urbana;68,6;2018-01-02;81,8
+691;tempestade severa;raios e granizo intenso;3;auckland;5,1;771;rural;58,7;2022-10-13;81,8
+979;inundacao;rios transbordam e invadem cidade;2;london;18,6;2268;urbana;21,4;2020-05-16;81,8
+239;inundacao;alagamento apos chuvas fortes;1;auckland;13,5;275;urbana;33;2020-09-24;81,7
+743;tempestade severa;chuvas e ventos fortes;2;bogota;12,5;2060;urbana;88,6;2025-01-27;81,7
+833;inundacao;alagamento apos chuvas fortes;5;paris;13,5;2793;rural;43,6;2018-08-29;81,6
+954;inundacao;alagamento apos chuvas fortes;4;beijing;14;1966;rural;28,4;2019-11-22;81,6
+322;tempestade severa;raios e granizo intenso;2;brisbane;8,4;1485;urbana;59;2019-06-10;81,4
+268;inundacao;alagamento apos chuvas fortes;2;tokyo;13;2901;rural;52;2022-07-22;81,1
+583;inundacao;alagamento apos chuvas fortes;4;seoul;6,8;596;urbana;50,9;2021-07-23;81,1
+660;inundacao;alagamento apos chuvas fortes;1;perth;11,7;1746;urbana;23,7;2015-07-10;81,1
+819;inundacao;alagamento apos chuvas fortes;5;seoul;8,6;2409;urbana;70,9;2017-05-31;81,1
+939;tempestade severa;raios e granizo intenso;3;lima;6,3;1404;urbana;70,1;2017-01-20;81,1
+989;tempestade severa;raios e granizo intenso;4;cairo;11;496;urbana;67,8;2017-02-01;81,1
+298;tempestade severa;chuvas e ventos fortes;4;lagos;18,1;2107;rural;61,5;2017-09-02;81
+326;inundacao;alagamento apos chuvas fortes;5;lima;8;2892;rural;38,4;2025-05-06;81
+798;inundacao;rios transbordam e invadem cidade;2;sydney;15,9;1404;rural;68,1;2018-10-21;81
+998;inundacao;alagamento apos chuvas fortes;3;nairobi;5,5;1049;urbana;74,7;2025-02-15;80,9
+876;tempestade severa;raios e granizo intenso;2;tokyo;6,5;2390;urbana;68,5;2017-04-12;80,8
+716;tempestade severa;chuvas e ventos fortes;5;los angeles;5,1;318;rural;82,7;2016-02-14;80,5
+764;inundacao;rios transbordam e invadem cidade;5;rome;5,4;2142;rural;43,5;2023-03-20;80,4
+793;tempestade severa;chuvas e ventos fortes;3;tokyo;14,2;2246;rural;59,6;2019-03-08;80,4
+165;inundacao;alagamento apos chuvas fortes;3;sao paulo;5,2;1324;rural;73,8;2020-08-20;80,1
+661;tornado;ventos giratorios destroem casas;4;beijing;23,8;103;rural;211,2;2022-04-16;80
+484;granizo;queda de pedras de gelo;3;madrid;5,1;239;rural;15,9;2022-01-18;79,9
+266;vento forte;ventos derrubam estruturas;3;brisbane;15,2;2671;rural;93;2020-09-27;79,8
+541;granizo;queda de pedras de gelo;1;sao paulo;12,1;1661;rural;14;2015-09-27;79,7
+872;vento forte;ventos derrubam estruturas;2;bangkok;16;2627;rural;99,8;2024-07-03;79,7
+277;granizo;queda de pedras de gelo;4;berlin;17,8;160;rural;55,9;2016-02-13;79,6
+466;tornado;coluna de ar causa destruicao;5;bogota;17,3;645;rural;113,3;2022-05-11;79,6
+533;tornado;coluna de ar causa destruicao;5;cairo;27,5;593;urbana;292,7;2019-07-16;79,5
+1000;tornado;coluna de ar causa destruicao;5;cape town;20,6;2596;urbana;284,5;2022-07-02;79,4
+507;vento forte;rajadas acima de 100 kmh;2;rome;23,6;1457;rural;68,4;2018-08-18;79,3
+616;vento forte;rajadas acima de 100 kmh;1;casablanca;21,5;201;urbana;67,5;2022-09-02;79,3
+287;granizo;gelo danifica carros e telhados;5;bangkok;12,6;2441;urbana;12,3;2015-05-11;79,2
+512;vento forte;ventos derrubam estruturas;2;cape town;17,9;343;urbana;117,8;2022-01-27;79,2
+708;vento forte;rajadas acima de 100 kmh;2;paris;17,2;145;rural;82,1;2023-02-05;79,2
+902;granizo;queda de pedras de gelo;4;mumbai;19,8;2943;urbana;66;2015-04-18;79,2
+444;tornado;coluna de ar causa destruicao;1;melbourne;20,7;1004;rural;167,2;2023-06-11;79
+992;vento forte;rajadas acima de 100 kmh;1;brisbane;24,5;2643;rural;69,5;2018-01-26;79
+655;vento forte;ventos derrubam estruturas;1;berlin;27,5;2951;urbana;102,6;2020-12-26;78,8
+758;granizo;queda de pedras de gelo;4;auckland;10,2;729;rural;72,1;2016-12-04;78,8
+887;tornado;coluna de ar causa destruicao;1;lima;24;1874;rural;125,4;2022-09-29;78,8
+370;granizo;queda de pedras de gelo;3;chicago;5,3;28;urbana;67,3;2023-08-29;78,7
+425;granizo;gelo danifica carros e telhados;2;rome;6,3;2771;urbana;46,9;2025-04-07;78,6
+189;granizo;queda de pedras de gelo;2;berlin;6,9;547;urbana;33,4;2023-04-22;78,5
+386;granizo;queda de pedras de gelo;2;los angeles;15,9;662;rural;58,1;2024-05-30;78,5
+966;tornado;ventos giratorios destroem casas;4;chicago;30;668;urbana;237,9;2020-12-09;78,5
+155;granizo;queda de pedras de gelo;5;chicago;15,7;2948;urbana;26;2020-12-21;78,4
+258;tornado;coluna de ar causa destruicao;2;cape town;16,5;1770;rural;145,1;2024-03-29;78,4
+768;granizo;queda de pedras de gelo;4;berlin;15,3;1195;urbana;46,6;2023-08-08;78,4
+924;granizo;queda de pedras de gelo;1;perth;14,5;1092;rural;33,1;2023-12-17;78,4
+429;granizo;queda de pedras de gelo;1;cape town;6,5;2852;rural;26,4;2018-01-02;78,2
+603;vento forte;ventos derrubam estruturas;1;bogota;17,4;1647;rural;100,4;2022-01-18;78,2
+523;granizo;queda de pedras de gelo;4;cape town;15,1;2343;rural;45,2;2020-08-20;78,1
+38;granizo;queda de pedras de gelo;4;berlin;14;1292;rural;64,6;2021-08-29;78
+740;vento forte;rajadas acima de 100 kmh;3;santiago;20,5;2050;urbana;72,6;2024-12-10;77,9
+736;vento forte;rajadas acima de 100 kmh;5;lagos;25,7;1876;rural;85,3;2020-07-08;77,8
+66;tornado;ventos giratorios destroem casas;1;paris;27;982;urbana;115,1;2024-04-29;77,7
+150;tornado;ventos giratorios destroem casas;2;sydney;29,1;2270;urbana;263,7;2024-06-15;77,7
+447;tornado;coluna de ar causa destruicao;2;buenos aires;17,3;160;rural;121,6;2016-04-16;77,7
+910;vento forte;rajadas acima de 100 kmh;1;berlin;25,3;556;rural;104,8;2019-05-04;77,6
+46;granizo;queda de pedras de gelo;3;buenos aires;5,5;2282;urbana;40,6;2018-07-29;77,4
+582;tornado;coluna de ar causa destruicao;3;santiago;22,4;688;urbana;113,8;2021-08-21;77,4
+351;tornado;coluna de ar causa destruicao;4;nairobi;17,6;1128;urbana;225,1;2019-11-06;77,3
+417;granizo;gelo danifica carros e telhados;4;rome;14,1;951;urbana;16,7;2018-06-04;77,3
+184;granizo;gelo danifica carros e telhados;2;perth;15,9;1405;rural;78,6;2019-04-26;77,2
+197;granizo;queda de pedras de gelo;4;buenos aires;14,8;2171;rural;40,4;2022-09-14;77,2
+637;tornado;ventos giratorios destroem casas;1;sao paulo;20;2982;rural;213,2;2024-10-22;77,2
+750;granizo;gelo danifica carros e telhados;1;los angeles;9,2;874;rural;46,5;2018-03-19;77,2
+131;granizo;gelo danifica carros e telhados;1;seoul;10,1;520;rural;71;2016-12-17;77,1
+353;tornado;coluna de ar causa destruicao;2;mumbai;17,1;1632;urbana;277;2017-02-20;77,1
+651;granizo;gelo danifica carros e telhados;5;melbourne;6,7;1439;urbana;46,7;2022-05-18;76,9
+719;granizo;queda de pedras de gelo;2;cairo;10,2;2713;urbana;43,4;2016-02-02;76,9
+752;tornado;coluna de ar causa destruicao;3;buenos aires;17,1;2074;urbana;177,4;2019-08-24;76,9
+308;granizo;gelo danifica carros e telhados;3;rome;12,9;768;rural;29,2;2019-10-01;76,8
+741;granizo;queda de pedras de gelo;2;bogota;11,6;1157;rural;56,5;2016-08-11;76,8
+366;granizo;queda de pedras de gelo;4;melbourne;18,4;1266;urbana;22,5;2023-02-28;76,7
+372;granizo;gelo danifica carros e telhados;3;mexico city;6;2059;urbana;23,1;2025-02-06;76,6
+589;granizo;queda de pedras de gelo;3;nairobi;5,1;2455;rural;41,1;2021-03-14;76,6
+681;granizo;queda de pedras de gelo;5;casablanca;10,4;500;urbana;70,9;2023-01-31;76,6
+702;vento forte;ventos derrubam estruturas;2;auckland;16;522;urbana;88,3;2015-09-01;76,6
+301;tornado;ventos giratorios destroem casas;3;new york;27,9;1093;rural;198,8;2016-09-28;76,5
+587;granizo;queda de pedras de gelo;2;berlin;16,3;844;rural;11,2;2025-05-09;76,5
+70;tornado;ventos giratorios destroem casas;5;bangkok;18;579;rural;275,2;2019-01-25;76,4
+253;vento forte;rajadas acima de 100 kmh;3;paris;19,2;1714;urbana;94,3;2020-10-14;76,4
+377;vento forte;rajadas acima de 100 kmh;2;cape town;19;2607;rural;96,1;2018-11-13;76,3
+727;vento forte;ventos derrubam estruturas;3;mexico city;29,1;76;urbana;74,8;2020-10-11;76,3
+870;vento forte;ventos derrubam estruturas;1;brisbane;20,9;1304;urbana;85;2019-12-06;76,3
+54;granizo;queda de pedras de gelo;5;bangkok;8,3;1457;rural;37,2;2024-12-30;76,2
+607;granizo;gelo danifica carros e telhados;2;paris;11,1;1682;urbana;70,3;2015-11-28;76,2
+246;vento forte;ventos derrubam estruturas;3;london;16,1;2952;rural;101,3;2024-03-30;76
+395;vento forte;rajadas acima de 100 kmh;2;cairo;21,8;2708;rural;82,7;2024-09-20;76
+974;vento forte;ventos derrubam estruturas;3;mexico city;21,3;2496;rural;96,9;2015-02-02;76
+99;vento forte;rajadas acima de 100 kmh;4;sao paulo;27,5;2215;rural;80,7;2017-09-02;75,9
+65;tornado;coluna de ar causa destruicao;1;chicago;17,3;2376;urbana;209,3;2020-08-22;75,8
+426;vento forte;rajadas acima de 100 kmh;5;cairo;27,7;135;urbana;119,1;2015-04-27;75,8
+784;vento forte;rajadas acima de 100 kmh;2;seoul;29,5;1086;urbana;111,7;2015-07-06;75,7
+280;granizo;gelo danifica carros e telhados;2;auckland;11,2;1623;urbana;55,9;2018-06-22;75,6
+536;tornado;ventos giratorios destroem casas;3;perth;24;2565;urbana;272,1;2015-01-09;75,6
+543;tornado;ventos giratorios destroem casas;1;toronto;24,3;431;urbana;168,5;2024-05-18;75,6
+270;granizo;gelo danifica carros e telhados;4;brisbane;14,4;2581;rural;72,4;2024-07-01;75,5
+195;vento forte;ventos derrubam estruturas;3;melbourne;20,3;2112;rural;70,1;2021-01-19;75,4
+329;vento forte;ventos derrubam estruturas;1;sydney;29,8;2645;rural;65,8;2016-10-22;75,4
+517;tornado;ventos giratorios destroem casas;2;paris;18,7;2966;urbana;188,8;2016-12-03;75,4
+539;vento forte;rajadas acima de 100 kmh;1;madrid;18,5;2618;rural;96,7;2024-12-27;75,4
+610;granizo;queda de pedras de gelo;5;beijing;8,7;1560;rural;54,3;2015-03-30;75,4
+618;vento forte;ventos derrubam estruturas;2;los angeles;22,4;1814;urbana;107;2020-09-25;75,4
+695;tornado;coluna de ar causa destruicao;4;tokyo;28,6;1198;urbana;109,4;2018-02-23;75,4
+829;vento forte;rajadas acima de 100 kmh;5;casablanca;22,2;444;rural;88,1;2021-12-30;75,4
+168;granizo;gelo danifica carros e telhados;1;seoul;11,7;452;rural;33,1;2023-11-05;75,3
+644;granizo;gelo danifica carros e telhados;3;lagos;7,9;1969;urbana;50,4;2019-02-15;75,3
+658;vento forte;rajadas acima de 100 kmh;1;bogota;22,5;2535;rural;73,6;2021-03-28;75,3
+562;vento forte;ventos derrubam estruturas;5;nairobi;22;2570;rural;87,3;2021-02-13;75,1
+194;granizo;gelo danifica carros e telhados;1;auckland;19,5;1738;rural;14,8;2023-10-03;75
+342;granizo;gelo danifica carros e telhados;1;bogota;9;2357;rural;77,2;2024-05-11;74,9
+474;tornado;coluna de ar causa destruicao;1;los angeles;22,8;481;urbana;235;2017-01-20;74,9
+627;vento forte;rajadas acima de 100 kmh;1;lima;15;904;urbana;118,2;2015-04-13;74,9
+531;tornado;ventos giratorios destroem casas;4;lima;26,4;2304;rural;126,7;2020-10-10;74,8
+138;tornado;coluna de ar causa destruicao;2;berlin;17,6;1072;urbana;108,7;2019-04-29;74,7
+605;vento forte;ventos derrubam estruturas;2;casablanca;23,1;2353;rural;71,8;2025-01-22;74,6
+730;vento forte;ventos derrubam estruturas;1;paris;15,4;197;urbana;94,3;2016-08-21;74,6
+914;granizo;queda de pedras de gelo;2;melbourne;19,3;44;urbana;42,6;2023-06-20;74,5
+312;vento forte;rajadas acima de 100 kmh;4;chicago;18;1508;rural;91,5;2021-02-13;74,3
+789;granizo;gelo danifica carros e telhados;1;cairo;12,2;2999;urbana;57,2;2018-05-03;74,2
+53;vento forte;rajadas acima de 100 kmh;4;lima;18;739;urbana;83,6;2018-05-07;74
+790;tornado;coluna de ar causa destruicao;2;melbourne;20,9;1419;urbana;235,6;2021-02-21;74
+792;granizo;gelo danifica carros e telhados;4;new york;7,4;1300;rural;42,9;2016-04-27;74
+441;tornado;ventos giratorios destroem casas;1;berlin;29,6;312;urbana;106,9;2015-03-14;73,9
+921;vento forte;rajadas acima de 100 kmh;2;sao paulo;17,4;2455;urbana;79,7;2015-01-24;73,9
+151;granizo;gelo danifica carros e telhados;2;lima;13,2;2668;rural;46,1;2016-06-13;73,8
+163;tornado;coluna de ar causa destruicao;2;sao paulo;22,6;339;urbana;131,2;2019-11-26;73,8
+559;tornado;ventos giratorios destroem casas;4;lima;22,8;226;rural;137,8;2016-04-12;73,7
+904;granizo;queda de pedras de gelo;3;madrid;11;2699;rural;24,9;2017-04-23;73,5
+477;vento forte;rajadas acima de 100 kmh;1;brisbane;28;1264;rural;88,3;2018-07-17;73,4
+390;granizo;queda de pedras de gelo;4;new york;19,9;1154;rural;79,8;2016-12-03;73,2
+714;tornado;coluna de ar causa destruicao;2;berlin;18,3;1137;urbana;147,2;2021-12-12;73,2
+487;granizo;queda de pedras de gelo;2;madrid;16,4;2295;urbana;49,7;2019-05-11;73,1
+497;vento forte;ventos derrubam estruturas;5;chicago;20;2848;rural;101,8;2015-10-04;73,1
+364;granizo;queda de pedras de gelo;2;toronto;11;1140;rural;45,6;2019-01-17;72,8
+852;tornado;ventos giratorios destroem casas;2;cairo;19,7;679;rural;261,9;2017-02-05;72,8
+117;tornado;coluna de ar causa destruicao;4;lagos;24,3;1172;urbana;287,2;2021-07-08;72,7
+428;granizo;gelo danifica carros e telhados;1;mexico city;9;1317;urbana;35,9;2015-12-29;72,7
+718;granizo;gelo danifica carros e telhados;2;los angeles;11,1;2458;rural;12,7;2019-10-27;72,6
+929;vento forte;rajadas acima de 100 kmh;1;mumbai;22,9;780;urbana;61,8;2018-02-09;72,5
+549;granizo;queda de pedras de gelo;2;los angeles;11,3;1254;rural;14;2022-09-28;72,4
+116;vento forte;rajadas acima de 100 kmh;2;buenos aires;15,1;696;rural;93,4;2020-06-23;72,3
+506;granizo;queda de pedras de gelo;2;brisbane;9,2;1492;rural;19,6;2018-01-28;72,3
+734;granizo;gelo danifica carros e telhados;2;perth;10,2;983;urbana;43,1;2019-07-20;72,3
+842;granizo;gelo danifica carros e telhados;2;perth;12;1450;urbana;17,2;2019-09-29;72,2
+455;granizo;queda de pedras de gelo;3;rome;6,8;494;rural;79,4;2024-10-09;72,1
+608;tornado;ventos giratorios destroem casas;3;chicago;20,4;1393;rural;157,6;2016-02-24;72,1
+643;vento forte;ventos derrubam estruturas;5;brisbane;21,8;308;rural;72,5;2016-04-14;72,1
+192;granizo;queda de pedras de gelo;5;rome;5,6;887;urbana;54,4;2023-08-28;72
+307;vento forte;rajadas acima de 100 kmh;4;mumbai;19,4;2546;rural;82,4;2018-10-26;71,9
+365;vento forte;rajadas acima de 100 kmh;5;brisbane;28,3;2608;urbana;77,6;2023-07-09;71,9
+416;vento forte;ventos derrubam estruturas;3;melbourne;24,2;928;urbana;80,1;2024-05-22;71,8
+489;granizo;queda de pedras de gelo;5;sydney;14;141;rural;54,5;2019-05-09;71,8
+663;tornado;coluna de ar causa destruicao;4;buenos aires;28,4;1089;urbana;111;2019-01-30;71,8
+11;vento forte;rajadas acima de 100 kmh;3;auckland;25;918;urbana;78,8;2019-03-31;71,7
+250;granizo;queda de pedras de gelo;1;seoul;10,1;1026;rural;47,5;2021-09-13;71,7
+620;vento forte;rajadas acima de 100 kmh;4;buenos aires;27,3;2344;rural;107,2;2015-02-03;71,7
+652;granizo;queda de pedras de gelo;2;sydney;17,6;24;rural;60,3;2024-12-22;71,4
+923;vento forte;ventos derrubam estruturas;5;casablanca;17,7;566;rural;61,8;2021-04-27;71,4
+254;tornado;coluna de ar causa destruicao;2;cape town;23,9;2783;urbana;144,9;2023-10-19;71,3
+981;vento forte;ventos derrubam estruturas;2;cape town;26,7;1062;urbana;93,7;2017-10-13;71,3
+807;tornado;ventos giratorios destroem casas;5;seoul;23,9;1231;rural;213,2;2017-07-23;71,2
+848;vento forte;ventos derrubam estruturas;4;cape town;18,9;2311;rural;80,4;2016-09-20;71,2
+995;vento forte;ventos derrubam estruturas;2;los angeles;21,1;2440;urbana;75,9;2021-04-01;71,2
+373;granizo;queda de pedras de gelo;5;santiago;5;1158;rural;73,8;2020-12-24;70,9
+352;granizo;queda de pedras de gelo;1;los angeles;14,6;1215;rural;53,9;2015-10-05;70,8
+414;granizo;queda de pedras de gelo;5;sao paulo;12,8;1882;urbana;65,1;2021-01-02;70,8
+775;vento forte;rajadas acima de 100 kmh;3;bangkok;21,6;1400;urbana;89,2;2019-06-03;70,8
+467;vento forte;rajadas acima de 100 kmh;2;cape town;26;1440;urbana;73,4;2017-07-30;70,7
+654;granizo;gelo danifica carros e telhados;3;lagos;18;1466;urbana;74;2022-03-09;70,7
+330;granizo;gelo danifica carros e telhados;1;los angeles;17,2;1979;rural;29,7;2023-02-12;70,4
+823;tornado;coluna de ar causa destruicao;2;sydney;17,1;2347;rural;223,4;2015-05-20;70,4
+962;granizo;gelo danifica carros e telhados;1;beijing;19,5;434;rural;53,1;2019-03-10;70,4
+314;vento forte;ventos derrubam estruturas;5;seoul;28;2891;rural;66,9;2020-11-14;70,2
+724;granizo;gelo danifica carros e telhados;2;cairo;11,4;2900;rural;20,5;2019-05-28;70,2
+107;terremoto;tremor sentido em varios bairros;1;sao paulo;12,1;2901;rural;31,9;2025-02-11;70
+220;vento forte;ventos derrubam estruturas;3;bangkok;16,9;198;rural;76,3;2023-07-27;70
+267;tornado;ventos giratorios destroem casas;4;paris;22,9;2847;rural;219,2;2020-12-02;70
+387;granizo;queda de pedras de gelo;2;nairobi;13,3;746;rural;43,3;2024-02-25;70
+599;vento forte;rajadas acima de 100 kmh;2;casablanca;27,3;756;rural;99,1;2015-08-02;70
+808;granizo;queda de pedras de gelo;5;berlin;19,2;2508;urbana;74,9;2022-07-21;70
+984;tornado;ventos giratorios destroem casas;1;brisbane;24,5;2594;urbana;104;2024-07-30;70
+305;tornado;coluna de ar causa destruicao;1;seoul;20,7;1329;urbana;164;2019-09-03;69,9
+900;granizo;queda de pedras de gelo;3;sydney;15,7;152;urbana;29,6;2024-12-31;69,9
+112;vento forte;ventos derrubam estruturas;3;melbourne;19,6;2151;rural;95,9;2020-02-07;69,8
+76;granizo;gelo danifica carros e telhados;1;los angeles;17,8;1424;urbana;20,8;2019-09-18;69,7
+261;tornado;ventos giratorios destroem casas;1;tokyo;27,6;1388;rural;282,3;2016-01-20;69,6
+884;granizo;queda de pedras de gelo;4;mexico city;15;1044;urbana;46,4;2023-03-07;69,5
+459;terremoto;abalo de media intensidade;1;auckland;15,4;1794;rural;69,1;2016-01-14;69,4
+624;granizo;queda de pedras de gelo;1;cairo;15,2;2946;urbana;51;2022-11-26;69,4
+697;granizo;gelo danifica carros e telhados;3;paris;13,1;1017;rural;34,6;2022-08-24;69,4
+1;granizo;gelo danifica carros e telhados;3;beijing;18,9;2128;rural;77;2024-06-04;69,3
+41;terremoto;abalo de media intensidade;3;brisbane;18;1894;urbana;79,9;2024-11-12;69,3
+514;tornado;coluna de ar causa destruicao;2;los angeles;28,2;260;rural;260,7;2024-08-23;69,3
+522;granizo;queda de pedras de gelo;3;madrid;15,8;1911;rural;15,1;2021-02-27;69,3
+825;granizo;queda de pedras de gelo;4;buenos aires;6,9;389;urbana;15,6;2016-08-23;69,3
+348;terremoto;abalo de media intensidade;4;cairo;21,3;2950;urbana;78,5;2017-04-22;69,2
+350;granizo;queda de pedras de gelo;5;bogota;18,5;785;urbana;36,2;2016-05-03;69,2
+69;vento forte;ventos derrubam estruturas;1;lagos;18,9;1067;urbana;82,9;2024-11-13;69,1
+149;granizo;queda de pedras de gelo;5;cape town;14;2136;rural;15,5;2020-11-17;69,1
+606;granizo;gelo danifica carros e telhados;2;buenos aires;11,9;278;urbana;21,7;2020-11-11;69,1
+203;tornado;coluna de ar causa destruicao;3;beijing;22,6;2343;rural;106,6;2017-02-03;69
+773;vento forte;rajadas acima de 100 kmh;1;madrid;24,3;1328;rural;73,9;2023-08-01;69
+135;vento forte;rajadas acima de 100 kmh;5;santiago;22,3;1399;urbana;92,1;2021-07-26;68,8
+738;vento forte;ventos derrubam estruturas;5;sao paulo;19,4;2742;rural;102,8;2023-02-10;68,8
+835;terremoto;tremor sentido em varios bairros;2;chicago;12,5;13;urbana;75,9;2015-01-10;68,8
+216;vento forte;ventos derrubam estruturas;1;sydney;28,5;1032;urbana;78,7;2020-07-05;68,7
+913;tornado;ventos giratorios destroem casas;2;cairo;23,9;2383;urbana;249,5;2021-10-03;68,7
+399;granizo;gelo danifica carros e telhados;5;melbourne;7,7;1487;urbana;37,2;2022-03-13;68,6
+580;terremoto;abalo de media intensidade;4;sydney;16,2;675;rural;63,2;2018-12-12;68,5
+679;vento forte;ventos derrubam estruturas;5;chicago;24,4;188;urbana;108,3;2018-01-01;68,5
+324;terremoto;tremor sentido em varios bairros;1;tokyo;10,7;108;urbana;12,8;2021-09-19;68,4
+349;vento forte;rajadas acima de 100 kmh;5;berlin;15,2;1460;rural;73;2018-10-05;68,4
+566;terremoto;tremor sentido em varios bairros;4;madrid;13,2;2552;urbana;13,7;2024-10-26;68,4
+757;granizo;queda de pedras de gelo;1;santiago;12;1945;urbana;13,4;2023-07-06;68,4
+779;tornado;coluna de ar causa destruicao;1;mumbai;26,3;1459;rural;215,5;2020-11-06;68,4
+993;tornado;ventos giratorios destroem casas;4;nairobi;27,6;2882;urbana;214,3;2020-02-15;68,4
+816;granizo;queda de pedras de gelo;2;cape town;14,7;506;urbana;48;2024-03-19;68,3
+496;granizo;queda de pedras de gelo;4;melbourne;17,4;2743;urbana;32,9;2018-04-16;68,2
+310;tornado;ventos giratorios destroem casas;1;buenos aires;26,3;2159;urbana;255,5;2021-09-20;68,1
+560;granizo;gelo danifica carros e telhados;2;cape town;13,4;1593;urbana;19;2018-10-04;68,1
+569;granizo;queda de pedras de gelo;2;beijing;7,9;757;urbana;21,6;2019-01-21;68,1
+820;terremoto;abalo de media intensidade;5;lima;19,7;2655;urbana;56,1;2015-02-15;68,1
+2;tornado;coluna de ar causa destruicao;1;sao paulo;24,7;29;urbana;113,6;2025-01-02;67,9
+164;vento forte;rajadas acima de 100 kmh;2;melbourne;17,6;348;urbana;67,9;2021-10-08;67,9
+290;vento forte;rajadas acima de 100 kmh;5;cairo;21,5;102;rural;85,8;2017-11-17;67,8
+403;terremoto;tremor sentido em varios bairros;4;rome;23,2;505;rural;60,1;2015-04-14;67,8
+494;granizo;gelo danifica carros e telhados;4;chicago;14,7;339;urbana;37;2020-08-27;67,8
+495;tornado;coluna de ar causa destruicao;4;tokyo;16,7;1869;rural;183,5;2020-10-31;67,8
+623;granizo;queda de pedras de gelo;2;santiago;11,1;1349;urbana;64,6;2025-03-09;67,8
+136;vento forte;rajadas acima de 100 kmh;3;cairo;24,9;270;urbana;87,6;2020-10-27;67,7
+161;terremoto;tremor sentido em varios bairros;1;los angeles;16,5;1394;rural;26,5;2017-12-14;67,7
+649;terremoto;abalo de media intensidade;3;bogota;16,2;1065;urbana;18,5;2025-03-29;67,7
+813;vento forte;rajadas acima de 100 kmh;2;rome;24,3;1960;urbana;104,4;2021-02-15;67,7
+881;vento forte;ventos derrubam estruturas;1;lima;22,8;246;urbana;88,6;2025-04-24;67,6
+74;granizo;queda de pedras de gelo;4;bangkok;10,4;2778;urbana;41,4;2016-10-16;67,5
+751;terremoto;abalo de media intensidade;1;brisbane;12,4;19;urbana;53,7;2023-03-02;67,5
+586;terremoto;abalo de media intensidade;5;sao paulo;13,8;2962;rural;48,3;2024-03-16;67,4
+715;tornado;coluna de ar causa destruicao;1;london;28;2406;urbana;255,3;2016-11-17;67,4
+34;vento forte;ventos derrubam estruturas;3;los angeles;15,3;2563;rural;68,8;2015-01-14;67,3
+699;tornado;coluna de ar causa destruicao;3;casablanca;24,3;912;urbana;257,5;2024-04-25;67,3
+188;granizo;gelo danifica carros e telhados;5;seoul;8,7;1333;rural;57,6;2023-12-21;67,2
+780;tornado;ventos giratorios destroem casas;4;lima;24,9;1991;rural;224;2016-10-09;67,1
+88;granizo;gelo danifica carros e telhados;5;lima;14,7;47;urbana;30;2018-07-13;67
+528;vento forte;rajadas acima de 100 kmh;3;cairo;27,9;1990;rural;98;2024-11-17;67
+982;granizo;gelo danifica carros e telhados;3;casablanca;14,8;1666;urbana;10,8;2021-02-27;67
+52;tornado;coluna de ar causa destruicao;3;los angeles;25,6;553;rural;243,2;2019-02-07;66,8
+435;terremoto;abalo de media intensidade;2;lagos;21,1;594;urbana;47,8;2020-12-16;66,7
+859;vento forte;ventos derrubam estruturas;5;sydney;25,5;107;urbana;66,2;2015-10-23;66,7
+335;tornado;coluna de ar causa destruicao;4;santiago;27;2424;rural;281,6;2022-10-21;66,5
+628;granizo;queda de pedras de gelo;1;new york;5,3;1464;urbana;57,2;2017-11-30;66,5
+997;tornado;coluna de ar causa destruicao;1;madrid;22,3;2639;rural;238,4;2018-05-02;66,5
+300;vento forte;ventos derrubam estruturas;2;auckland;28,6;310;urbana;64,3;2019-03-02;66,4
+309;tornado;ventos giratorios destroem casas;5;buenos aires;21,3;2910;urbana;293;2018-05-28;66,4
+657;vento forte;ventos derrubam estruturas;1;sydney;18,5;1482;urbana;74,1;2020-08-11;66,4
+858;granizo;gelo danifica carros e telhados;3;toronto;19,9;2019;urbana;14,8;2019-12-17;66,4
+129;terremoto;abalo de media intensidade;2;toronto;10,4;2808;rural;25,9;2016-11-17;66,3
+158;granizo;queda de pedras de gelo;2;toronto;18,2;2655;rural;37,5;2023-06-07;66,3
+739;vento forte;ventos derrubam estruturas;5;paris;26,9;1627;rural;74,4;2016-07-29;66,2
+875;granizo;gelo danifica carros e telhados;1;paris;12,9;2927;rural;27,4;2024-07-04;66,2
+949;vento forte;rajadas acima de 100 kmh;5;sao paulo;28,6;930;urbana;86,9;2021-09-19;66,2
+174;granizo;gelo danifica carros e telhados;5;berlin;6,6;1008;urbana;37,3;2018-09-07;66,1
+178;tornado;ventos giratorios destroem casas;4;auckland;15;147;rural;275;2016-01-09;66
+664;granizo;queda de pedras de gelo;4;toronto;14,5;97;rural;38,3;2025-03-22;66
+821;vento forte;rajadas acima de 100 kmh;5;buenos aires;27,4;1685;urbana;61,3;2018-09-15;66
+478;terremoto;abalo de media intensidade;2;auckland;18,6;2862;urbana;22,6;2024-06-01;65,9
+956;granizo;gelo danifica carros e telhados;4;madrid;5,7;887;rural;39,9;2018-01-07;65,8
+244;vento forte;ventos derrubam estruturas;5;brisbane;24,3;1527;urbana;93,4;2021-03-10;65,7
+393;tornado;coluna de ar causa destruicao;5;los angeles;19,6;2038;rural;248,5;2023-12-30;65,7
+451;terremoto;abalo de media intensidade;3;cape town;13,8;2393;urbana;47;2022-03-18;65,7
+574;terremoto;tremor sentido em varios bairros;5;lagos;24,3;62;rural;74,3;2021-10-14;65,7
+999;terremoto;abalo de media intensidade;1;new york;24,3;1619;urbana;47,8;2017-10-22;65,7
+941;tornado;coluna de ar causa destruicao;5;auckland;21,3;1293;rural;103,9;2023-04-04;65,6
+473;terremoto;abalo de media intensidade;4;berlin;23,8;761;rural;46,3;2019-08-10;65,4
+899;tornado;coluna de ar causa destruicao;4;sydney;17,7;1383;rural;196,5;2016-02-10;65,4
+199;granizo;queda de pedras de gelo;5;london;7,7;2558;rural;50,6;2021-04-26;65,3
+214;vento forte;ventos derrubam estruturas;3;madrid;17,2;322;rural;64,8;2018-06-18;65,3
+371;vento forte;rajadas acima de 100 kmh;3;santiago;24,7;1202;urbana;83;2022-03-16;65,3
+453;granizo;queda de pedras de gelo;1;new york;14,5;593;rural;11,8;2015-02-14;65,3
+146;tornado;ventos giratorios destroem casas;5;london;27;1016;rural;200,6;2021-09-09;65,2
+570;terremoto;abalo de media intensidade;5;bangkok;20,3;1040;urbana;41,5;2021-04-04;65,2
+221;vento forte;rajadas acima de 100 kmh;1;lagos;24,7;1912;rural;94,6;2018-10-18;65,1
+783;vento forte;rajadas acima de 100 kmh;4;new york;25,4;1872;rural;74,6;2019-03-02;65,1
+529;tornado;coluna de ar causa destruicao;4;tokyo;20,5;397;rural;162,3;2022-05-02;65
+449;terremoto;tremor sentido em varios bairros;3;sao paulo;12,8;990;rural;29,3;2017-08-17;64,9
+704;granizo;gelo danifica carros e telhados;3;tokyo;10,3;72;rural;65,4;2016-03-29;64,8
+516;granizo;queda de pedras de gelo;5;santiago;9,2;1821;rural;25,4;2017-08-04;64,7
+210;vento forte;ventos derrubam estruturas;2;new york;23,3;1260;urbana;93,1;2018-12-18;64,6
+255;tornado;coluna de ar causa destruicao;1;mumbai;17,7;154;urbana;126,9;2024-10-08;64,6
+511;vento forte;rajadas acima de 100 kmh;4;perth;26,4;1246;rural;64;2023-09-04;64,6
+579;vento forte;ventos derrubam estruturas;4;bogota;27,3;2993;rural;102;2020-12-08;64,5
+931;granizo;gelo danifica carros e telhados;2;beijing;11,9;2527;urbana;51,3;2018-11-27;64,5
+584;vento forte;rajadas acima de 100 kmh;3;chicago;20,6;2632;rural;73,8;2023-08-18;64,4
+696;vento forte;rajadas acima de 100 kmh;1;cape town;18,7;368;rural;78,8;2021-04-04;64,3
+139;vento forte;ventos derrubam estruturas;1;toronto;23,9;489;urbana;93,7;2018-12-24;64,2
+828;terremoto;tremor sentido em varios bairros;1;london;17,6;1041;urbana;57,3;2020-08-29;64,2
+77;tornado;coluna de ar causa destruicao;3;bangkok;20,1;2878;urbana;171,6;2015-07-23;64,1
+236;vento forte;rajadas acima de 100 kmh;1;chicago;20,3;2421;rural;84,3;2022-07-12;64,1
+248;vento forte;ventos derrubam estruturas;4;rome;29,2;1969;rural;89,2;2017-05-06;64,1
+256;terremoto;tremor sentido em varios bairros;4;sao paulo;21,7;1905;rural;54,8;2023-03-09;64,1
+316;vento forte;rajadas acima de 100 kmh;3;berlin;28,2;467;rural;94,1;2020-09-22;64
+392;vento forte;rajadas acima de 100 kmh;1;los angeles;22,4;2370;rural;76,7;2020-12-03;64
+672;tornado;ventos giratorios destroem casas;5;santiago;16;2356;urbana;195,5;2024-05-30;64
+983;terremoto;abalo de media intensidade;3;perth;22,3;145;urbana;71,2;2015-03-24;64
+40;tornado;ventos giratorios destroem casas;1;rome;27,9;2375;urbana;120,2;2017-11-12;63,9
+445;vento forte;rajadas acima de 100 kmh;3;melbourne;16,2;1143;rural;105;2016-08-31;63,8
+930;vento forte;ventos derrubam estruturas;1;toronto;28,4;2718;rural;75,1;2022-01-10;63,8
+990;terremoto;tremor sentido em varios bairros;1;chicago;24,4;1844;rural;11,1;2015-02-13;63,8
+576;granizo;gelo danifica carros e telhados;5;berlin;7,2;2536;rural;57,5;2021-11-14;63,6
+850;tornado;coluna de ar causa destruicao;1;buenos aires;25,5;79;urbana;161,5;2017-11-10;63,6
+218;tornado;coluna de ar causa destruicao;1;mexico city;25,1;1797;rural;147,9;2023-08-12;63,5
+621;terremoto;tremor sentido em varios bairros;3;beijing;14,1;278;rural;44,7;2015-12-18;63,5
+502;vento forte;ventos derrubam estruturas;4;bangkok;27,3;2339;rural;107,5;2019-07-06;63,4
+125;tornado;ventos giratorios destroem casas;1;toronto;17,8;966;urbana;230,8;2016-04-04;63,3
+721;tornado;coluna de ar causa destruicao;1;madrid;24,1;1032;urbana;262,2;2024-06-08;63,3
+759;vento forte;ventos derrubam estruturas;3;mumbai;26,2;2344;rural;75,5;2022-09-02;63,3
+108;granizo;gelo danifica carros e telhados;5;mumbai;5,1;1993;rural;56,7;2023-01-28;63,2
+133;terremoto;tremor sentido em varios bairros;3;cairo;15,6;1577;rural;22,7;2017-08-01;63,2
+684;terremoto;abalo de media intensidade;2;santiago;24,6;2946;rural;76,3;2018-10-11;63,2
+824;vento forte;ventos derrubam estruturas;5;bogota;24,5;2026;rural;64,8;2024-10-04;63,2
+804;tornado;ventos giratorios destroem casas;4;seoul;22,6;2756;rural;177;2021-02-04;63,1
+334;terremoto;abalo de media intensidade;4;paris;21,8;2626;urbana;64,4;2024-05-23;63
+356;vento forte;ventos derrubam estruturas;5;melbourne;29,6;722;urbana;119,1;2020-08-25;63
+418;granizo;gelo danifica carros e telhados;2;paris;8,8;2050;urbana;70,6;2024-07-19;63
+572;terremoto;tremor sentido em varios bairros;1;mumbai;22,2;2329;rural;31,6;2018-10-06;62,9
+873;tornado;coluna de ar causa destruicao;2;mexico city;16,7;909;rural;294,7;2015-11-07;62,9
+965;granizo;gelo danifica carros e telhados;5;cairo;5;617;rural;70,6;2015-12-19;62,7
+591;tornado;ventos giratorios destroem casas;3;bogota;27,7;533;rural;284,2;2016-06-20;62,6
+967;tornado;ventos giratorios destroem casas;4;brisbane;29,2;502;rural;286,1;2015-10-27;62,6
+89;tornado;coluna de ar causa destruicao;2;seoul;28,3;2710;rural;127,5;2016-10-23;62,5
+103;granizo;queda de pedras de gelo;5;perth;11,9;2985;urbana;37,8;2022-07-09;62,5
+202;tornado;ventos giratorios destroem casas;5;buenos aires;21;679;rural;206,3;2017-03-24;62,5
+285;tornado;ventos giratorios destroem casas;3;sao paulo;27,1;1134;urbana;167,6;2019-11-27;62,5
+187;vento forte;ventos derrubam estruturas;2;lagos;24;2203;rural;114,5;2018-11-02;62,4
+419;tornado;coluna de ar causa destruicao;5;sydney;26,6;2845;urbana;271,4;2018-09-06;62,4
+673;tornado;coluna de ar causa destruicao;3;lima;24,7;85;rural;194,3;2022-12-22;62,4
+43;tornado;coluna de ar causa destruicao;4;new york;28;1143;urbana;222,7;2016-06-12;62,3
+51;granizo;gelo danifica carros e telhados;4;chicago;13,7;1172;urbana;12,2;2020-07-13;62,3
+233;vento forte;ventos derrubam estruturas;5;sao paulo;18,8;2016;rural;90,2;2017-05-17;62,3
+837;tornado;coluna de ar causa destruicao;1;mumbai;23,9;2133;rural;165,5;2022-05-30;62,3
+209;terremoto;tremor sentido em varios bairros;1;tokyo;20,2;1693;urbana;72,7;2019-04-29;62,2
+432;terremoto;abalo de media intensidade;4;bogota;19,2;694;urbana;49,8;2019-07-01;62,2
+509;tornado;ventos giratorios destroem casas;4;bangkok;24;2308;rural;134,2;2023-05-06;62,2
+744;tornado;coluna de ar causa destruicao;2;lima;15,1;1458;rural;234,1;2023-12-26;62,2
+943;vento forte;ventos derrubam estruturas;4;bangkok;16,3;131;rural;83,4;2021-03-30;62,2
+95;granizo;gelo danifica carros e telhados;5;cape town;9;1535;rural;12,8;2015-09-19;62,1
+260;terremoto;tremor sentido em varios bairros;5;tokyo;11,9;595;rural;63,6;2019-10-11;62,1
+327;terremoto;tremor sentido em varios bairros;1;nairobi;15,9;1308;urbana;27,3;2024-08-03;62,1
+420;granizo;queda de pedras de gelo;4;beijing;12,9;1040;urbana;78,1;2021-08-12;62,1
+667;tornado;coluna de ar causa destruicao;3;bangkok;25,1;257;urbana;213,3;2016-03-28;62,1
+442;vento forte;rajadas acima de 100 kmh;1;los angeles;28,6;736;urbana;117;2016-07-22;62
+456;granizo;queda de pedras de gelo;1;brisbane;18,9;1414;urbana;68,7;2022-07-31;61,9
+676;granizo;queda de pedras de gelo;4;casablanca;18,4;134;urbana;41,6;2022-02-18;61,9
+811;granizo;queda de pedras de gelo;3;cairo;14,5;863;rural;16,7;2021-07-03;61,9
+21;tornado;ventos giratorios destroem casas;1;sydney;29;320;urbana;240,6;2024-04-10;61,8
+134;vento forte;ventos derrubam estruturas;5;sydney;27,3;2273;urbana;113,2;2023-05-05;61,8
+501;granizo;queda de pedras de gelo;2;lagos;6,4;799;rural;72,8;2017-02-12;61,8
+720;granizo;queda de pedras de gelo;5;bangkok;16,6;2483;urbana;29,2;2022-04-11;61,8
+705;tornado;coluna de ar causa destruicao;4;cape town;19,5;2361;urbana;283,8;2024-03-19;61,7
+141;tornado;coluna de ar causa destruicao;2;auckland;26,1;16;urbana;125,7;2021-08-26;61,6
+526;granizo;queda de pedras de gelo;1;london;7,5;742;urbana;43,5;2016-11-13;61,6
+142;vento forte;ventos derrubam estruturas;3;sao paulo;25,5;1725;urbana;93,2;2022-02-10;61,5
+521;tornado;coluna de ar causa destruicao;3;auckland;21,4;2852;rural;133,4;2017-05-30;61,5
+975;vento forte;ventos derrubam estruturas;2;los angeles;16,9;1295;urbana;98,2;2021-07-26;61,5
+970;terremoto;abalo de media intensidade;5;cape town;17,3;2522;rural;46,3;2016-09-25;61,4
+122;granizo;queda de pedras de gelo;1;beijing;7,6;1913;urbana;58,5;2020-12-12;61,3
+374;terremoto;tremor sentido em varios bairros;3;london;13;2666;urbana;41,5;2019-08-13;61,3
+745;granizo;queda de pedras de gelo;5;berlin;15,2;936;urbana;18,7;2015-12-25;61,3
+772;granizo;queda de pedras de gelo;4;madrid;19,2;2538;urbana;29,8;2016-11-09;61,3
+928;tornado;coluna de ar causa destruicao;2;perth;21,6;2009;urbana;192,2;2017-09-13;61,3
+520;tornado;ventos giratorios destroem casas;4;toronto;18,6;1576;urbana;106,9;2021-10-26;61,2
+826;tornado;coluna de ar causa destruicao;3;auckland;16,6;1849;rural;187,6;2016-11-23;61,2
+565;terremoto;tremor sentido em varios bairros;2;bangkok;22,4;828;rural;72,7;2015-04-22;61,1
+257;granizo;queda de pedras de gelo;3;los angeles;12,1;900;urbana;30,9;2015-03-08;61
+615;granizo;gelo danifica carros e telhados;2;sydney;17,6;656;urbana;77,1;2020-12-13;60,8
+898;vento forte;rajadas acima de 100 kmh;4;bangkok;27,8;2135;urbana;82,2;2017-03-26;60,8
+683;granizo;queda de pedras de gelo;3;lima;6,5;762;urbana;44,4;2020-11-04;60,7
+17;terremoto;abalo de media intensidade;5;lima;12,3;2270;rural;51,7;2019-05-18;60,6
+75;tornado;coluna de ar causa destruicao;1;buenos aires;18,8;1615;rural;101;2023-08-15;60,6
+90;terremoto;abalo de media intensidade;1;los angeles;24,7;183;urbana;39,3;2016-10-22;60,6
+100;tornado;ventos giratorios destroem casas;5;auckland;18,6;751;urbana;208;2018-02-25;60,6
+568;vento forte;rajadas acima de 100 kmh;3;sao paulo;17,7;2917;urbana;63,6;2015-05-13;60,6
+801;tornado;coluna de ar causa destruicao;5;lagos;22,1;818;urbana;218,1;2024-02-11;60,5
+49;tornado;ventos giratorios destroem casas;1;casablanca;17,5;1931;rural;279,4;2019-06-02;60,4
+597;terremoto;tremor sentido em varios bairros;5;mumbai;19,5;1673;urbana;10,2;2023-02-18;60,4
+659;granizo;gelo danifica carros e telhados;3;auckland;11,7;2350;urbana;55,9;2018-03-15;60,4
+446;tornado;coluna de ar causa destruicao;3;los angeles;21,8;281;rural;258,7;2017-03-30;60,3
+548;tornado;coluna de ar causa destruicao;5;bangkok;29,8;2341;urbana;229,1;2019-03-28;60,3
+766;tornado;ventos giratorios destroem casas;4;bangkok;27,5;2911;urbana;157,6;2016-05-18;60,3
+742;granizo;queda de pedras de gelo;5;chicago;19,1;854;rural;72,2;2020-08-09;60,2
+958;terremoto;abalo de media intensidade;5;buenos aires;15,3;2286;rural;40,8;2021-07-25;60,1
+692;vento forte;ventos derrubam estruturas;1;bogota;21,1;2942;rural;89,5;2015-02-15;60
+713;tornado;ventos giratorios destroem casas;1;buenos aires;19,2;1630;urbana;170,7;2020-08-17;59,8
+818;granizo;queda de pedras de gelo;1;auckland;19,5;2026;urbana;46,7;2020-06-27;59,8
+422;granizo;gelo danifica carros e telhados;4;cape town;12,1;2065;rural;11,6;2015-12-15;59,7
+703;tornado;ventos giratorios destroem casas;5;buenos aires;22,6;2674;urbana;175,6;2021-07-12;59,7
+534;terremoto;abalo de media intensidade;2;berlin;24,3;2100;rural;28,3;2022-01-08;59,6
+600;granizo;queda de pedras de gelo;4;nairobi;17,5;2540;rural;33,2;2022-07-31;59,6
+723;tornado;coluna de ar causa destruicao;1;tokyo;23,7;2204;urbana;251,9;2015-06-16;59,6
+809;tornado;ventos giratorios destroem casas;1;cairo;29,3;2373;urbana;171;2020-08-17;59,6
+922;tornado;coluna de ar causa destruicao;5;perth;17,7;1000;rural;257,1;2018-03-29;59,6
+755;terremoto;abalo de media intensidade;5;santiago;15,2;2620;urbana;69,9;2017-02-03;59,5
+361;tornado;coluna de ar causa destruicao;5;seoul;19,6;1974;urbana;179,2;2025-02-18;59,4
+590;terremoto;abalo de media intensidade;2;los angeles;19,9;1993;urbana;23,8;2022-03-14;59,4
+530;granizo;queda de pedras de gelo;1;chicago;9,1;32;urbana;52,5;2016-10-17;59,3
+675;terremoto;abalo de media intensidade;4;seoul;16,1;2824;urbana;13,5;2019-05-12;59,3
+916;vento forte;ventos derrubam estruturas;3;sydney;22,2;758;urbana;87;2015-12-17;59,3
+143;vento forte;rajadas acima de 100 kmh;3;mumbai;21,1;905;urbana;73,2;2021-10-30;59,2
+118;vento forte;rajadas acima de 100 kmh;2;berlin;17,2;2336;rural;108,8;2021-10-20;59,1
+410;tornado;ventos giratorios destroem casas;3;auckland;29,1;1719;rural;262;2017-01-20;59,1
+838;tornado;ventos giratorios destroem casas;4;mumbai;16,3;1123;urbana;294,7;2017-07-18;59,1
+614;granizo;gelo danifica carros e telhados;4;seoul;8,8;1214;urbana;60,8;2021-07-19;59
+883;tornado;ventos giratorios destroem casas;2;sydney;15,4;2572;rural;187,2;2025-03-28;59
+12;terremoto;tremor sentido em varios bairros;2;cape town;18,8;170;urbana;35,3;2023-11-10;58,9
+537;tornado;ventos giratorios destroem casas;1;auckland;16;1311;urbana;197,8;2023-09-20;58,9
+454;terremoto;abalo de media intensidade;5;tokyo;12,1;2576;urbana;60;2021-11-20;58,8
+814;vento forte;rajadas acima de 100 kmh;3;new york;21,6;2442;rural;95,4;2024-01-22;58,8
+383;vento forte;ventos derrubam estruturas;3;rome;21;672;rural;107,6;2016-03-15;58,7
+402;terremoto;abalo de media intensidade;5;melbourne;19,9;2115;urbana;27,4;2020-04-25;58,6
+431;granizo;gelo danifica carros e telhados;5;berlin;5,3;688;rural;46,2;2019-06-07;58,6
+960;vento forte;rajadas acima de 100 kmh;1;cairo;26,4;2086;urbana;100,3;2024-02-03;58,6
+504;tornado;ventos giratorios destroem casas;4;mumbai;21,6;1357;urbana;110,6;2024-08-11;58,5
+712;granizo;gelo danifica carros e telhados;2;bangkok;19,3;2970;rural;47,6;2020-02-09;58,5
+889;granizo;queda de pedras de gelo;5;melbourne;9,7;1501;rural;40,8;2023-04-26;58,4
+31;vento forte;rajadas acima de 100 kmh;2;london;16;2671;rural;81,5;2023-10-04;58,3
+200;granizo;queda de pedras de gelo;1;berlin;6,5;2809;rural;54,3;2017-11-15;58,3
+319;tornado;ventos giratorios destroem casas;5;sydney;26,2;2337;rural;155,3;2016-04-06;58,3
+617;granizo;gelo danifica carros e telhados;1;los angeles;12,8;1347;urbana;48,4;2024-10-15;58,3
+79;tornado;ventos giratorios destroem casas;1;chicago;27,7;245;urbana;239,7;2019-03-11;58,2
+93;tornado;ventos giratorios destroem casas;2;berlin;27,9;799;rural;124,8;2021-01-10;58,2
+866;terremoto;tremor sentido em varios bairros;4;toronto;23,5;1377;rural;61;2023-02-04;58,2
+186;tornado;coluna de ar causa destruicao;1;sydney;25,4;2223;rural;251,5;2022-08-10;58,1
+229;tornado;ventos giratorios destroem casas;4;rome;29,5;2974;rural;202,5;2015-02-07;58,1
+575;vento forte;rajadas acima de 100 kmh;1;rome;17,7;2637;urbana;114,4;2021-09-16;58,1
+16;terremoto;tremor sentido em varios bairros;3;buenos aires;12,7;1284;urbana;69,6;2018-10-02;58
+97;tornado;ventos giratorios destroem casas;5;perth;20,9;564;rural;150;2016-06-09;58
+470;tornado;ventos giratorios destroem casas;3;lagos;19,5;74;rural;196,1;2016-01-05;58
+513;tornado;coluna de ar causa destruicao;2;nairobi;24,5;1013;rural;253,5;2017-12-21;58
+27;tornado;coluna de ar causa destruicao;4;melbourne;29,3;1539;rural;242,7;2021-08-26;57,9
+115;terremoto;abalo de media intensidade;4;lagos;13,4;118;urbana;49,4;2017-08-09;57,8
+729;terremoto;abalo de media intensidade;1;london;21,4;264;urbana;53,3;2023-11-09;57,8
+959;tornado;ventos giratorios destroem casas;2;casablanca;21,2;374;rural;245,1;2023-11-20;57,6
+154;granizo;queda de pedras de gelo;2;bangkok;7,9;2510;urbana;27,4;2019-01-26;57,5
+354;granizo;queda de pedras de gelo;2;lagos;8,3;1431;rural;28,6;2015-07-08;57,5
+398;terremoto;abalo de media intensidade;3;auckland;12,2;2357;urbana;63,2;2020-10-12;57,5
+552;vento forte;ventos derrubam estruturas;1;beijing;19,8;1948;rural;104,2;2015-02-14;57,5
+626;terremoto;abalo de media intensidade;5;perth;21,3;583;rural;14,9;2021-03-19;57,4
+670;tornado;coluna de ar causa destruicao;4;bogota;24,5;809;urbana;291,3;2022-05-20;57,4
+5;terremoto;abalo de media intensidade;1;seoul;21,3;585;urbana;70,2;2022-02-01;57,3
+700;tornado;coluna de ar causa destruicao;3;paris;16,8;111;rural;127,9;2019-09-06;57,3
+710;granizo;gelo danifica carros e telhados;3;chicago;6,3;744;rural;44,2;2023-05-07;57,3
+128;granizo;gelo danifica carros e telhados;3;chicago;18,1;2986;rural;69,9;2022-12-15;57,2
+397;vento forte;ventos derrubam estruturas;2;rome;20,2;1232;rural;64,4;2019-06-29;57,2
+382;vento forte;ventos derrubam estruturas;1;los angeles;19,2;1952;rural;82,7;2017-06-28;57,1
+634;tornado;ventos giratorios destroem casas;5;london;18,6;2067;urbana;239,4;2023-08-26;57,1
+465;tornado;coluna de ar causa destruicao;3;paris;18,1;2095;rural;171,3;2015-12-14;56,9
+636;granizo;queda de pedras de gelo;2;london;15,8;1368;rural;30,7;2022-12-16;56,9
+782;terremoto;tremor sentido em varios bairros;2;tokyo;12,9;2060;rural;45,2;2015-11-21;56,9
+927;granizo;queda de pedras de gelo;3;mumbai;15;147;rural;51,4;2020-11-28;56,9
+291;granizo;gelo danifica carros e telhados;5;toronto;15,3;569;rural;30,4;2017-06-02;56,8
+640;vento forte;rajadas acima de 100 kmh;2;bogota;17,5;1871;urbana;83,8;2025-03-15;56,8
+905;tornado;coluna de ar causa destruicao;1;los angeles;16,6;899;rural;224,2;2018-02-07;56,8
+452;vento forte;ventos derrubam estruturas;1;lima;19,4;1825;urbana;97,7;2019-11-29;56,7
+868;tornado;coluna de ar causa destruicao;2;new york;27,9;2953;urbana;176,6;2023-08-22;56,7
+148;granizo;gelo danifica carros e telhados;2;seoul;13,1;877;rural;24,5;2017-09-09;56,6
+519;terremoto;abalo de media intensidade;5;lima;23,1;1159;rural;70,4;2024-06-21;56,6
+771;terremoto;abalo de media intensidade;2;tokyo;11,3;573;urbana;54,4;2023-02-07;56,6
+827;vento forte;ventos derrubam estruturas;2;tokyo;17,2;176;rural;75,6;2022-04-25;56,6
+932;tornado;coluna de ar causa destruicao;2;new york;16;2316;rural;223,2;2023-02-18;56,6
+190;terremoto;tremor sentido em varios bairros;4;sydney;23,4;2800;rural;25,3;2023-11-20;56,5
+98;terremoto;tremor sentido em varios bairros;4;brisbane;20,1;156;rural;74,3;2022-10-18;56,4
+212;vento forte;rajadas acima de 100 kmh;5;lagos;28,7;295;urbana;115,4;2021-12-27;56,4
+567;granizo;gelo danifica carros e telhados;4;bogota;8,9;1573;rural;42,8;2020-12-23;56,3
+211;granizo;gelo danifica carros e telhados;1;perth;5,9;2580;urbana;64,8;2021-08-27;56,2
+269;tornado;coluna de ar causa destruicao;1;buenos aires;22,3;33;rural;269,8;2021-06-28;56,2
+685;vento forte;ventos derrubam estruturas;2;lima;28,5;1494;urbana;88,8;2016-06-14;56,1
+279;terremoto;abalo de media intensidade;3;toronto;13,4;1908;urbana;47,9;2020-02-19;56
+407;granizo;queda de pedras de gelo;4;cape town;14,1;2832;rural;33,3;2023-12-09;56
+408;vento forte;rajadas acima de 100 kmh;3;toronto;28,9;200;urbana;110,4;2017-05-10;56
+896;terremoto;tremor sentido em varios bairros;4;nairobi;24,6;2121;urbana;63,8;2018-08-26;56
+968;vento forte;rajadas acima de 100 kmh;3;auckland;16,7;821;rural;68,3;2017-09-22;55,9
+281;granizo;gelo danifica carros e telhados;5;rome;17;2581;rural;35,3;2020-02-20;55,8
+360;granizo;gelo danifica carros e telhados;5;tokyo;17,1;404;urbana;62,8;2016-05-10;55,8
+561;vento forte;ventos derrubam estruturas;4;tokyo;22,5;874;rural;83,3;2020-10-20;55,8
+3;vento forte;ventos derrubam estruturas;1;cairo;21,8;1560;urbana;118;2015-01-30;55,7
+114;terremoto;tremor sentido em varios bairros;5;seoul;10,6;1981;rural;27,8;2022-11-15;55,7
+120;terremoto;tremor sentido em varios bairros;5;perth;20,8;2032;urbana;25,1;2015-06-13;55,7
+179;granizo;queda de pedras de gelo;1;new york;7;2415;rural;44,4;2024-09-16;55,5
+490;granizo;gelo danifica carros e telhados;1;brisbane;16,6;2151;rural;40,8;2024-03-04;55,5
+604;tornado;coluna de ar causa destruicao;1;sydney;16,7;374;rural;177,7;2022-10-25;55,5
+4;vento forte;rajadas acima de 100 kmh;5;sydney;26,1;1420;rural;117;2021-01-04;55,4
+181;terremoto;tremor sentido em varios bairros;4;london;19,8;2526;urbana;46,9;2018-12-21;55,4
+430;terremoto;abalo de media intensidade;2;madrid;24,4;741;rural;13,3;2018-08-02;55,4
+834;tornado;ventos giratorios destroem casas;4;perth;15,5;356;urbana;121,3;2017-09-04;55,4
+15;granizo;gelo danifica carros e telhados;4;mexico city;11,7;1422;urbana;60,5;2015-09-12;55,3
+384;vento forte;ventos derrubam estruturas;3;lima;16,3;1922;urbana;94,4;2016-12-20;55,3
+485;granizo;queda de pedras de gelo;5;mumbai;14,4;1958;urbana;52,3;2024-08-06;55,1
+557;terremoto;tremor sentido em varios bairros;3;toronto;15,9;848;rural;57;2018-08-19;55,1
+847;terremoto;tremor sentido em varios bairros;4;mexico city;20,6;1774;urbana;10,8;2015-04-02;55,1
+908;tornado;ventos giratorios destroem casas;4;toronto;19,7;453;rural;171,8;2022-12-31;55,1
+915;vento forte;rajadas acima de 100 kmh;4;nairobi;23,9;386;rural;113,3;2019-04-28;55,1
+13;vento forte;ventos derrubam estruturas;3;lima;23,5;1426;urbana;63,6;2017-05-02;55
+860;vento forte;ventos derrubam estruturas;2;tokyo;27,2;1114;urbana;90,2;2024-03-01;55
+26;tornado;coluna de ar causa destruicao;5;paris;28,5;2117;rural;116,1;2016-10-20;54,9
+272;tornado;coluna de ar causa destruicao;4;perth;29,6;2925;urbana;155,7;2017-01-24;54,9
+864;terremoto;abalo de media intensidade;3;beijing;11,8;2541;rural;31,1;2017-12-22;54,9
+612;terremoto;tremor sentido em varios bairros;3;perth;16;651;urbana;75,2;2016-07-02;54,8
+733;granizo;queda de pedras de gelo;2;beijing;16,4;1608;rural;11,7;2025-02-08;54,6
+849;vento forte;ventos derrubam estruturas;5;chicago;18,5;600;urbana;75,9;2022-04-07;54,6
+972;granizo;queda de pedras de gelo;1;madrid;15,5;1971;urbana;58,2;2018-07-17;54,6
+527;granizo;gelo danifica carros e telhados;4;brisbane;7,5;2355;urbana;70,8;2016-08-29;54,4
+688;tornado;coluna de ar causa destruicao;5;new york;24,6;2427;rural;232,2;2020-06-09;54,4
+862;tornado;ventos giratorios destroem casas;1;seoul;17,8;2419;rural;107,7;2022-01-09;54,3
+251;terremoto;tremor sentido em varios bairros;3;london;18,9;1567;urbana;58,2;2019-07-23;54,2
+440;vento forte;rajadas acima de 100 kmh;2;cape town;17,6;93;urbana;117,7;2017-06-17;54,2
+641;vento forte;ventos derrubam estruturas;1;los angeles;20,5;2732;urbana;86,3;2016-01-23;54,2
+945;granizo;queda de pedras de gelo;4;cairo;11,6;769;rural;50,2;2020-04-01;54,2
+423;granizo;queda de pedras de gelo;5;brisbane;18,8;2348;urbana;46,7;2019-06-05;54,1
+749;granizo;gelo danifica carros e telhados;1;buenos aires;16,6;2569;rural;78,9;2019-02-04;54,1
+438;vento forte;ventos derrubam estruturas;3;london;28,3;2045;urbana;85,1;2016-04-23;54
+503;granizo;queda de pedras de gelo;4;tokyo;10,3;556;urbana;76,7;2015-05-27;54
+415;terremoto;abalo de media intensidade;4;melbourne;23,5;1218;urbana;44,4;2022-06-06;53,9
+553;terremoto;tremor sentido em varios bairros;3;rome;11,5;1710;rural;53,9;2016-01-27;53,9
+690;terremoto;abalo de media intensidade;2;bogota;15,8;881;rural;59,6;2017-01-14;53,9
+940;vento forte;rajadas acima de 100 kmh;3;toronto;18,1;1855;urbana;74,9;2024-01-20;53,9
+96;vento forte;ventos derrubam estruturas;4;nairobi;27,6;447;urbana;75,3;2021-08-23;53,8
+262;vento forte;ventos derrubam estruturas;1;beijing;23,8;35;rural;104,3;2015-02-18;53,8
+581;terremoto;tremor sentido em varios bairros;4;sydney;24,6;2969;rural;50,9;2015-06-16;53,8
+687;granizo;queda de pedras de gelo;2;sydney;11,4;97;rural;56,3;2017-12-26;53,8
+746;terremoto;tremor sentido em varios bairros;1;los angeles;20,3;1668;urbana;76,8;2024-04-07;53,8
+774;granizo;gelo danifica carros e telhados;4;bangkok;6,8;697;urbana;74,5;2017-06-15;53,7
+180;terremoto;tremor sentido em varios bairros;4;madrid;21,1;1561;rural;53,8;2019-01-27;53,6
+500;granizo;queda de pedras de gelo;4;sydney;19,8;1466;urbana;28;2018-08-07;53,6
+578;tornado;ventos giratorios destroem casas;5;buenos aires;19,9;2182;urbana;189,3;2022-09-18;53,6
+786;tornado;ventos giratorios destroem casas;3;melbourne;18,6;2175;rural;162,5;2020-07-10;53,5
+340;terremoto;tremor sentido em varios bairros;1;cape town;23;2540;urbana;15,5;2016-12-17;53,4
+346;granizo;queda de pedras de gelo;4;new york;7,1;303;urbana;41,2;2017-12-16;53,4
+639;granizo;gelo danifica carros e telhados;2;cape town;6,4;2402;rural;10,5;2023-01-04;53,4
+986;terremoto;abalo de media intensidade;1;cairo;12,5;2398;rural;50,5;2015-03-09;53,4
+988;vento forte;rajadas acima de 100 kmh;3;lagos;15,3;2307;rural;113,1;2022-03-27;53,4
+63;tornado;ventos giratorios destroem casas;3;madrid;19,7;1316;rural;288,7;2024-02-13;53,3
+805;vento forte;rajadas acima de 100 kmh;4;santiago;16;2320;rural;60,5;2018-12-31;53,3
+24;tornado;ventos giratorios destroem casas;2;los angeles;17,9;1283;rural;132,7;2020-05-04;53,2
+961;terremoto;tremor sentido em varios bairros;3;seoul;14,4;1429;urbana;32,9;2018-07-19;53,2
+37;vento forte;ventos derrubam estruturas;5;beijing;21,5;610;urbana;67,4;2025-01-18;53,1
+64;terremoto;tremor sentido em varios bairros;3;toronto;11,1;2031;urbana;13,6;2021-12-17;53,1
+482;granizo;queda de pedras de gelo;4;chicago;18,3;1809;rural;56,9;2017-01-07;53,1
+546;vento forte;ventos derrubam estruturas;4;madrid;21,9;581;urbana;70,2;2016-11-06;53,1
+726;granizo;queda de pedras de gelo;5;bangkok;14,5;693;rural;15,7;2017-08-18;53,1
+145;terremoto;tremor sentido em varios bairros;3;tokyo;21,8;825;rural;39;2020-12-05;53
+717;granizo;queda de pedras de gelo;4;perth;12,1;1148;urbana;76,2;2021-12-19;52,9
+701;terremoto;tremor sentido em varios bairros;3;berlin;19,4;2745;rural;73,3;2022-12-11;52,8
+198;vento forte;rajadas acima de 100 kmh;3;nairobi;18,4;820;rural;110;2016-05-10;52,7
+558;vento forte;rajadas acima de 100 kmh;2;london;16,4;1904;rural;101,5;2018-04-08;52,7
+102;tornado;ventos giratorios destroem casas;2;melbourne;19,5;274;urbana;131,5;2020-11-02;52,6
+754;tornado;coluna de ar causa destruicao;5;perth;25,5;883;urbana;238,1;2018-04-13;52,6
+147;vento forte;rajadas acima de 100 kmh;2;buenos aires;15,3;1680;rural;82,8;2015-10-19;52,5
+219;granizo;gelo danifica carros e telhados;2;sydney;7,4;740;urbana;58;2020-09-22;52,5
+169;tornado;ventos giratorios destroem casas;2;madrid;15;2580;urbana;129,3;2018-04-16;52,4
+595;vento forte;rajadas acima de 100 kmh;5;madrid;20;339;urbana;69,2;2022-10-15;52,4
+895;granizo;gelo danifica carros e telhados;3;perth;13,2;1364;rural;49,4;2016-02-28;52,1
+85;tornado;ventos giratorios destroem casas;1;madrid;16,1;1029;urbana;185,6;2023-12-14;52
+92;tornado;coluna de ar causa destruicao;4;bogota;23,1;688;urbana;252,3;2018-09-06;52
+208;tornado;ventos giratorios destroem casas;3;lagos;28,5;2986;rural;241,2;2021-08-09;52
+401;tornado;coluna de ar causa destruicao;5;madrid;25;468;rural;254,1;2020-07-14;52
+694;granizo;queda de pedras de gelo;2;casablanca;11,6;2065;rural;43,6;2015-02-19;52
+947;vento forte;ventos derrubam estruturas;4;toronto;19,7;1358;rural;103,2;2024-05-22;52
+973;vento forte;rajadas acima de 100 kmh;3;bangkok;24,8;1894;rural;117,3;2015-07-04;51,9
+545;tornado;coluna de ar causa destruicao;3;beijing;23,6;1669;urbana;222,3;2024-12-16;51,8
+952;terremoto;abalo de media intensidade;5;bogota;11,4;1932;rural;49;2022-03-10;51,8
+275;tornado;ventos giratorios destroem casas;4;buenos aires;17,4;1393;rural;267,6;2018-03-24;51,6
+318;vento forte;rajadas acima de 100 kmh;4;paris;15,1;1201;urbana;88,6;2021-08-18;51,6
+732;vento forte;ventos derrubam estruturas;2;sao paulo;27,8;1508;rural;88;2023-11-07;51,6
+722;vento forte;rajadas acima de 100 kmh;5;lagos;28,6;2496;rural;98,7;2015-10-16;51,5
+204;vento forte;rajadas acima de 100 kmh;3;bogota;19,5;2629;urbana;114;2016-08-05;51,4
+217;terremoto;abalo de media intensidade;2;madrid;21,7;2167;rural;68;2024-08-17;51,4
+633;granizo;queda de pedras de gelo;1;mumbai;9,7;2277;urbana;17,9;2022-09-27;51,3
+656;tornado;ventos giratorios destroem casas;4;cape town;29,4;351;urbana;129,1;2019-01-29;51,3
+706;granizo;gelo danifica carros e telhados;5;perth;8,1;2321;urbana;53,8;2023-02-21;51,3
+845;vento forte;rajadas acima de 100 kmh;5;los angeles;20,6;1644;urbana;85,8;2022-03-26;51,3
+926;tornado;ventos giratorios destroem casas;2;lima;25,3;2966;urbana;140;2023-05-11;51,3
+379;granizo;gelo danifica carros e telhados;5;melbourne;18,2;633;urbana;43,8;2024-07-18;51,1
+457;vento forte;ventos derrubam estruturas;1;lagos;20,4;2474;rural;86,8;2016-11-05;51
+747;terremoto;tremor sentido em varios bairros;5;bogota;22,6;987;urbana;12,9;2023-11-11;50,9
+289;vento forte;rajadas acima de 100 kmh;4;santiago;20,3;1702;urbana;105,9;2021-06-14;50,8
+391;granizo;queda de pedras de gelo;1;bogota;11,3;1266;rural;47;2017-03-13;50,8
+9;terremoto;tremor sentido em varios bairros;2;sao paulo;22,6;1287;rural;46,4;2025-02-27;50,7
+271;vento forte;ventos derrubam estruturas;3;toronto;27,7;2987;rural;99,1;2025-02-09;50,7
+686;tornado;ventos giratorios destroem casas;1;tokyo;20,2;462;rural;105,6;2021-04-27;50,7
+748;vento forte;ventos derrubam estruturas;2;lima;29,3;2234;urbana;95,3;2018-10-06;50,7
+855;vento forte;rajadas acima de 100 kmh;5;bangkok;19;2891;urbana;78,4;2017-05-02;50,7
+493;vento forte;rajadas acima de 100 kmh;3;london;22,4;2706;urbana;103,5;2021-04-07;50,6
+822;tornado;ventos giratorios destroem casas;2;tokyo;20,6;2206;urbana;178,8;2016-06-18;50,6
+123;granizo;queda de pedras de gelo;5;lima;18,2;585;urbana;24,2;2015-12-05;50,5
+10;tornado;ventos giratorios destroem casas;5;cairo;27,7;1770;urbana;136,6;2018-07-25;50,3
+62;terremoto;abalo de media intensidade;4;auckland;15;823;rural;42,1;2018-07-25;50,3
+735;granizo;queda de pedras de gelo;5;santiago;13,3;1134;urbana;32,3;2022-09-22;50,3
+48;terremoto;tremor sentido em varios bairros;1;lima;19,6;1829;urbana;76,5;2019-03-21;50,2
+201;granizo;queda de pedras de gelo;5;bangkok;10,6;1328;rural;25,9;2019-07-25;50,2
+389;terremoto;abalo de media intensidade;3;sydney;11,5;2728;rural;48,5;2021-03-19;50,1
+409;vento forte;rajadas acima de 100 kmh;3;sao paulo;27,6;1886;urbana;96,1;2023-07-06;50,1
+463;tornado;ventos giratorios destroem casas;1;los angeles;23,3;2007;urbana;204,1;2023-02-26;50,1
+483;terremoto;abalo de media intensidade;3;beijing;24,1;1719;rural;46,1;2018-05-16;50,1
+674;vento forte;rajadas acima de 100 kmh;2;melbourne;16,7;2674;urbana;87,7;2023-07-21;50,1
+794;tornado;ventos giratorios destroem casas;1;sao paulo;16,5;1877;urbana;131,8;2019-08-07;50,1
+137;terremoto;tremor sentido em varios bairros;2;seoul;24,4;961;rural;50;2022-12-10;50
+106;terremoto;tremor sentido em varios bairros;5;buenos aires;24,3;292;rural;35,5;2022-07-29;49,8
+976;terremoto;abalo de media intensidade;5;bogota;19,9;2708;rural;50,7;2020-12-27;49,8
+284;terremoto;tremor sentido em varios bairros;4;chicago;15;1582;urbana;12,6;2017-11-05;49,1
+631;terremoto;tremor sentido em varios bairros;1;tokyo;17,3;2990;rural;16,6;2021-06-28;48,8
+237;terremoto;abalo de media intensidade;4;brisbane;15,4;1312;urbana;36,8;2022-04-17;48,5
+170;terremoto;abalo de media intensidade;3;new york;17,7;799;rural;15,6;2023-10-03;48,2
+787;terremoto;tremor sentido em varios bairros;3;berlin;16,1;1883;urbana;79,6;2017-08-17;48,1
+232;terremoto;tremor sentido em varios bairros;2;brisbane;23,4;1772;urbana;72,7;2015-12-21;48
+109;terremoto;abalo de media intensidade;5;chicago;13,9;2294;urbana;58,7;2016-06-18;47,7
+223;terremoto;tremor sentido em varios bairros;4;buenos aires;22,7;1956;rural;59,4;2015-06-25;47,3
+321;terremoto;abalo de media intensidade;4;madrid;23,4;681;rural;32,8;2018-07-05;47,3
+767;terremoto;tremor sentido em varios bairros;2;casablanca;20,7;468;rural;33,1;2015-04-27;46,7
+171;terremoto;tremor sentido em varios bairros;5;santiago;24;1988;urbana;54;2017-06-18;46,6
+728;terremoto;abalo de media intensidade;3;lagos;22,5;2597;rural;25,8;2016-04-21;46,2
+460;terremoto;abalo de media intensidade;2;cape town;13,4;2843;urbana;22;2016-12-12;45,9
+363;terremoto;tremor sentido em varios bairros;4;madrid;13,8;364;urbana;66,2;2020-12-23;45,8
+230;terremoto;abalo de media intensidade;4;toronto;21,1;2724;urbana;26,6;2020-03-01;45,4
+156;terremoto;tremor sentido em varios bairros;3;casablanca;24,5;1895;rural;13,6;2015-10-31;44,5
+630;terremoto;tremor sentido em varios bairros;1;mumbai;22,5;1965;rural;73,7;2019-04-09;44,4
+404;terremoto;abalo de media intensidade;5;chicago;11,7;2160;rural;75;2015-03-15;44,2
+341;terremoto;tremor sentido em varios bairros;1;brisbane;13,2;698;rural;34,8;2023-07-20;44
+36;terremoto;tremor sentido em varios bairros;2;bogota;16,5;2437;rural;27,7;2022-02-05;43,9
+951;terremoto;tremor sentido em varios bairros;2;buenos aires;11,6;242;rural;24,3;2020-07-13;43,9
+479;terremoto;tremor sentido em varios bairros;1;sao paulo;10,3;1793;rural;57,1;2019-01-04;43,5
+571;terremoto;abalo de media intensidade;5;toronto;10,7;604;urbana;55;2023-07-30;43,5
+689;terremoto;tremor sentido em varios bairros;2;madrid;10,9;2870;rural;68,7;2024-07-08;43,5
+942;terremoto;abalo de media intensidade;3;tokyo;12,5;1325;rural;49,3;2022-07-30;43,1
+226;terremoto;tremor sentido em varios bairros;4;bangkok;22,9;2177;rural;56,5;2018-10-14;42,5
+622;terremoto;tremor sentido em varios bairros;4;sydney;16,9;2651;rural;52,4;2021-06-20;42,4
+964;terremoto;tremor sentido em varios bairros;2;santiago;13,1;2450;urbana;22,2;2015-05-08;42,4
+450;terremoto;tremor sentido em varios bairros;2;lagos;12,9;2239;urbana;55,8;2020-10-10;42,3
+877;terremoto;tremor sentido em varios bairros;2;brisbane;14,9;1052;urbana;30,6;2020-09-17;42,3
+294;terremoto;tremor sentido em varios bairros;2;los angeles;13,4;1366;urbana;16,3;2017-08-14;41,7
+50;terremoto;abalo de media intensidade;4;mumbai;11,4;2802;rural;69,5;2016-07-24;41,5
+524;terremoto;tremor sentido em varios bairros;4;lima;20;406;rural;74,9;2018-10-04;41,4
+385;terremoto;tremor sentido em varios bairros;4;paris;22,3;1053;rural;52,3;2017-07-27;41,1
+550;terremoto;tremor sentido em varios bairros;1;nairobi;19;2529;urbana;71,7;2018-07-21;40,9
+144;terremoto;abalo de media intensidade;1;toronto;13,9;1675;urbana;59,1;2019-08-03;40,8
+770;terremoto;tremor sentido em varios bairros;1;sydney;15;1758;urbana;20,3;2023-12-02;40,8
+810;terremoto;tremor sentido em varios bairros;1;brisbane;21,9;2860;rural;49,2;2018-05-12;40,4
+831;terremoto;tremor sentido em varios bairros;2;mumbai;10,7;2799;rural;56,3;2024-12-17;39,5
+380;terremoto;tremor sentido em varios bairros;3;tokyo;19,6;2108;urbana;25;2016-08-26;39,3
+91;terremoto;tremor sentido em varios bairros;2;cape town;15,1;2545;urbana;27;2019-01-04;39,1
+785;terremoto;tremor sentido em varios bairros;2;sydney;21,7;498;urbana;58,8;2022-07-23;39
+925;terremoto;abalo de media intensidade;3;new york;17,1;487;urbana;25,6;2021-11-23;39
+461;terremoto;abalo de media intensidade;3;cape town;12,8;596;urbana;25,5;2018-09-10;38,8
+47;terremoto;abalo de media intensidade;5;madrid;25;2049;urbana;25,1;2024-12-17;38,6
+14;terremoto;abalo de media intensidade;2;sao paulo;15,4;1746;rural;57,9;2015-09-19;38,5
+647;terremoto;abalo de media intensidade;3;lagos;14,7;1675;rural;10,3;2020-07-08;38,5
+920;terremoto;abalo de media intensidade;2;melbourne;15,3;714;rural;30,3;2024-01-17;38,2
+243;terremoto;tremor sentido em varios bairros;1;paris;20,6;1102;rural;58,4;2024-10-30;38,1
+573;terremoto;abalo de media intensidade;4;lima;15,8;681;urbana;27,5;2022-11-18;37,9
+378;terremoto;abalo de media intensidade;3;auckland;13,2;2889;urbana;36,4;2015-10-01;37,7
+839;terremoto;abalo de media intensidade;3;cape town;22,3;2239;urbana;10,6;2016-08-27;36,8
+602;terremoto;tremor sentido em varios bairros;3;rome;22,7;1390;urbana;46,4;2019-04-28;36,7
+886;terremoto;abalo de media intensidade;4;sao paulo;15;1237;urbana;31,6;2015-10-20;36,3
+919;terremoto;abalo de media intensidade;5;casablanca;12,1;1156;rural;65,5;2015-11-29;36,3
+71;terremoto;tremor sentido em varios bairros;2;melbourne;16,1;18;rural;38,8;2019-11-05;36,2
+853;terremoto;tremor sentido em varios bairros;5;los angeles;18,5;1773;rural;61,9;2021-01-26;36,1
+8;terremoto;abalo de media intensidade;2;cairo;23,8;793;rural;15,2;2015-04-07;35,9
+185;terremoto;abalo de media intensidade;3;cape town;17,4;1864;urbana;34,8;2019-04-30;35,9
+153;terremoto;tremor sentido em varios bairros;4;melbourne;20,7;1169;urbana;26,8;2021-11-06;35,4
+421;terremoto;abalo de media intensidade;1;tokyo;10,1;2958;urbana;70,7;2016-04-19;35,4
+937;terremoto;abalo de media intensidade;1;toronto;15,3;2883;rural;29,9;2018-11-22;35,3
+547;terremoto;abalo de media intensidade;3;cairo;10,9;837;urbana;55;2020-02-03;35,2
+59;terremoto;abalo de media intensidade;2;madrid;15,7;1784;urbana;28,2;2015-10-31;35
+525;terremoto;abalo de media intensidade;3;bangkok;25;1703;rural;30,2;2020-06-08;34,9
+132;terremoto;abalo de media intensidade;5;bogota;11,6;1935;rural;72,4;2020-10-02;34,8
+891;terremoto;abalo de media intensidade;5;tokyo;23,6;617;rural;25,7;2019-07-18;34,8
+436;terremoto;abalo de media intensidade;4;rome;19,5;1305;rural;49,3;2016-04-29;34,5
+707;terremoto;abalo de media intensidade;2;rome;20,4;1867;rural;34,2;2020-06-01;34,4
+152;terremoto;tremor sentido em varios bairros;2;berlin;13,2;726;rural;43,4;2020-01-13;34,2
+240;terremoto;tremor sentido em varios bairros;2;toronto;17,3;2008;urbana;29;2021-10-14;33,9
+101;terremoto;tremor sentido em varios bairros;4;madrid;11,6;2499;rural;72,9;2022-08-05;33,8
+830;terremoto;abalo de media intensidade;3;buenos aires;16;1062;urbana;54,7;2020-10-06;33,5
+344;terremoto;tremor sentido em varios bairros;3;cape town;14,7;403;rural;50,9;2025-02-12;33,4
+711;terremoto;tremor sentido em varios bairros;1;london;22,2;2283;urbana;15,7;2025-03-12;33,1
+665;terremoto;abalo de media intensidade;4;sao paulo;14,8;1236;rural;40,6;2021-07-12;32,9
+293;terremoto;abalo de media intensidade;2;beijing;16,6;92;urbana;17,8;2022-09-25;32,7
+264;terremoto;abalo de media intensidade;4;toronto;22,3;981;rural;74,3;2016-10-31;32,6
+955;terremoto;abalo de media intensidade;2;sao paulo;22;1576;rural;70,6;2021-05-11;32,3
+880;terremoto;abalo de media intensidade;2;paris;11;2727;urbana;17,6;2023-09-15;31,9
+295;terremoto;tremor sentido em varios bairros;1;melbourne;21,3;1421;urbana;14,8;2024-05-24;31,8
+869;terremoto;tremor sentido em varios bairros;2;beijing;20,9;2689;urbana;73,5;2017-01-16;31,8
+412;terremoto;tremor sentido em varios bairros;5;mumbai;13,6;102;rural;60,1;2018-11-13;30,9
+505;terremoto;abalo de media intensidade;2;lagos;17,5;2238;urbana;67,7;2017-01-07;30,8
+737;terremoto;abalo de media intensidade;1;mexico city;15,1;1530;rural;47,2;2021-10-31;30,4
+761;terremoto;tremor sentido em varios bairros;1;auckland;23,5;2447;urbana;36,7;2016-12-17;30,1
