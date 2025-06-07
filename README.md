@@ -42,13 +42,6 @@ python main.py
 
 ---
 
-### Atenção
-
-- Durante a execução, serão exibidos dois gráficos em janelas separadas (fora do terminal), referentes à matriz de correlação e matriz de confusão.  
-- Aguarde a visualização e feche as janelas para continuar a execução do script.  
-
----
-
 ## Estrutura do Código
 
 - **carregar_dados()** — Carrega o CSV com os dados das catástrofes  
