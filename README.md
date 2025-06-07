@@ -1,7 +1,12 @@
 
-# Catástrofes - Análise e Previsão com Random Forest
+# StormEye - Alertas e Sobrevivencialismo com o Digital
 
-Projeto em Python para análise, modelagem e previsão de tipos de catástrofes a partir de dados históricos. Utiliza técnicas de pré-processamento, análise exploratória, machine learning com Random Forest e visualizações.
+## Resumo da Solução
+
+O StormEye é um aplicativo móvel inovador que transforma informações sobre desastres naturais em segurança prática e acessível. Ele oferece alertas em tempo real sobre eventos climáticos extremos — como tempestades, granizo, tornados, ventos fortes e terremotos — e disponibiliza um acervo de cartilhas especializadas em sobrevivencialismo, acessíveis offline. Desenvolvido para ser intuitivo e eficiente, o aplicativo é uma ferramenta essencial para moradores de áreas de risco, aventureiros e qualquer pessoa que deseje estar preparada para emergências.
+
+**Justificativa do uso de Machine Learning:**  
+Para aprimorar a eficácia dos alertas, o StormEye integra técnicas de machine learning capazes de processar grandes volumes de dados meteorológicos em tempo real, identificar padrões e antecipar eventos catastróficos com maior precisão. Isso possibilita notificações antecipadas e personalizadas, aumentando a chance de salvar vidas e reduzir danos.
 
 ---
 
